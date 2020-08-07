@@ -1,0 +1,657 @@
+STNAME,COUNTY,FIPS,YEAR,LABEL,MEASURE_NAMES,SUBPOP,SUBPOP_GROUP,YEARS,MAX_LOWER_CL,MAX_PERCENT,MAX_UPPER_CL,MEASURE_VALUES
+Washington,Adams County,53001,2011,Current smokeless tobacco use,RSE,County,Adams,2011,NA,NA,NA,40.3
+Washington,Adams County,53001,2011,Current smokeless tobacco use,Upper CL,County,Adams,2011,NA,NA,NA,NA
+Washington,Adams County,53001,2011,Current smokeless tobacco use,Lower CL,County,Adams,2011,NA,NA,NA,NA
+Washington,Adams County,53001,2011,Current smokeless tobacco use,Percent,County,Adams,2011,NA,NA,NA,NA
+Washington,Adams County,53001,2012,Current smokeless tobacco use,RSE,County,Adams,2012,NA,NA,NA,56.3
+Washington,Adams County,53001,2012,Current smokeless tobacco use,Upper CL,County,Adams,2012,NA,NA,NA,NA
+Washington,Adams County,53001,2012,Current smokeless tobacco use,Lower CL,County,Adams,2012,NA,NA,NA,NA
+Washington,Adams County,53001,2012,Current smokeless tobacco use,Percent,County,Adams,2012,NA,NA,NA,NA
+Washington,Adams County,53001,2013,Current smokeless tobacco use,RSE,County,Adams,2013,NA,NA,NA,102.2
+Washington,Adams County,53001,2013,Current smokeless tobacco use,Upper CL,County,Adams,2013,NA,NA,NA,NA
+Washington,Adams County,53001,2013,Current smokeless tobacco use,Lower CL,County,Adams,2013,NA,NA,NA,NA
+Washington,Adams County,53001,2013,Current smokeless tobacco use,Percent,County,Adams,2013,NA,NA,NA,NA
+Washington,Adams County,53001,2014,Current smokeless tobacco use,RSE,County,Adams,2014,NA,NA,NA,62.4
+Washington,Adams County,53001,2014,Current smokeless tobacco use,Upper CL,County,Adams,2014,NA,NA,NA,NA
+Washington,Adams County,53001,2014,Current smokeless tobacco use,Lower CL,County,Adams,2014,NA,NA,NA,NA
+Washington,Adams County,53001,2014,Current smokeless tobacco use,Percent,County,Adams,2014,NA,NA,NA,NA
+Washington,Asotin County,53003,2011,Current smokeless tobacco use,RSE,County,Asotin,2011,NA,NA,NA,51.6
+Washington,Asotin County,53003,2011,Current smokeless tobacco use,Upper CL,County,Asotin,2011,NA,NA,NA,NA
+Washington,Asotin County,53003,2011,Current smokeless tobacco use,Lower CL,County,Asotin,2011,NA,NA,NA,NA
+Washington,Asotin County,53003,2011,Current smokeless tobacco use,Percent,County,Asotin,2011,NA,NA,NA,NA
+Washington,Asotin County,53003,2012,Current smokeless tobacco use,RSE,County,Asotin,2012,NA,NA,NA,51.8
+Washington,Asotin County,53003,2012,Current smokeless tobacco use,Upper CL,County,Asotin,2012,NA,NA,NA,NA
+Washington,Asotin County,53003,2012,Current smokeless tobacco use,Lower CL,County,Asotin,2012,NA,NA,NA,NA
+Washington,Asotin County,53003,2012,Current smokeless tobacco use,Percent,County,Asotin,2012,NA,NA,NA,NA
+Washington,Asotin County,53003,2013,Current smokeless tobacco use,RSE,County,Asotin,2013,NA,NA,NA,65.9
+Washington,Asotin County,53003,2013,Current smokeless tobacco use,Upper CL,County,Asotin,2013,NA,NA,NA,NA
+Washington,Asotin County,53003,2013,Current smokeless tobacco use,Lower CL,County,Asotin,2013,NA,NA,NA,NA
+Washington,Asotin County,53003,2013,Current smokeless tobacco use,Percent,County,Asotin,2013,NA,NA,NA,NA
+Washington,Asotin County,53003,2014,Current smokeless tobacco use,RSE,County,Asotin,2014,NA,NA,NA,72.9
+Washington,Asotin County,53003,2014,Current smokeless tobacco use,Upper CL,County,Asotin,2014,NA,NA,NA,NA
+Washington,Asotin County,53003,2014,Current smokeless tobacco use,Lower CL,County,Asotin,2014,NA,NA,NA,NA
+Washington,Asotin County,53003,2014,Current smokeless tobacco use,Percent,County,Asotin,2014,NA,NA,NA,NA
+Washington,Benton County,53005,2011,Current smokeless tobacco use,RSE,County,Benton,2011,NA,NA,NA,50.6
+Washington,Benton County,53005,2011,Current smokeless tobacco use,Upper CL,County,Benton,2011,NA,NA,NA,NA
+Washington,Benton County,53005,2011,Current smokeless tobacco use,Lower CL,County,Benton,2011,NA,NA,NA,NA
+Washington,Benton County,53005,2011,Current smokeless tobacco use,Percent,County,Benton,2011,NA,NA,NA,NA
+Washington,Benton County,53005,2012,Current smokeless tobacco use,RSE,County,Benton,2012,2.3,5.2,8.2,28.9
+Washington,Benton County,53005,2012,Current smokeless tobacco use,Upper CL,County,Benton,2012,2.3,5.2,8.2,8.2
+Washington,Benton County,53005,2012,Current smokeless tobacco use,Lower CL,County,Benton,2012,2.3,5.2,8.2,2.3
+Washington,Benton County,53005,2012,Current smokeless tobacco use,Percent,County,Benton,2012,2.3,5.2,8.2,5.2
+Washington,Benton County,53005,2013,Current smokeless tobacco use,RSE,County,Benton,2013,NA,NA,NA,35.9
+Washington,Benton County,53005,2013,Current smokeless tobacco use,Upper CL,County,Benton,2013,NA,NA,NA,NA
+Washington,Benton County,53005,2013,Current smokeless tobacco use,Lower CL,County,Benton,2013,NA,NA,NA,NA
+Washington,Benton County,53005,2013,Current smokeless tobacco use,Percent,County,Benton,2013,NA,NA,NA,NA
+Washington,Benton County,53005,2014,Current smokeless tobacco use,RSE,County,Benton,2014,NA,NA,NA,45.9
+Washington,Benton County,53005,2014,Current smokeless tobacco use,Upper CL,County,Benton,2014,NA,NA,NA,NA
+Washington,Benton County,53005,2014,Current smokeless tobacco use,Lower CL,County,Benton,2014,NA,NA,NA,NA
+Washington,Benton County,53005,2014,Current smokeless tobacco use,Percent,County,Benton,2014,NA,NA,NA,NA
+Washington,Chelan County,53007,2011,Current smokeless tobacco use,RSE,County,Chelan,2011,NA,NA,NA,71.8
+Washington,Chelan County,53007,2011,Current smokeless tobacco use,Upper CL,County,Chelan,2011,NA,NA,NA,NA
+Washington,Chelan County,53007,2011,Current smokeless tobacco use,Lower CL,County,Chelan,2011,NA,NA,NA,NA
+Washington,Chelan County,53007,2011,Current smokeless tobacco use,Percent,County,Chelan,2011,NA,NA,NA,NA
+Washington,Chelan County,53007,2012,Current smokeless tobacco use,RSE,County,Chelan,2012,NA,NA,NA,65.4
+Washington,Chelan County,53007,2012,Current smokeless tobacco use,Upper CL,County,Chelan,2012,NA,NA,NA,NA
+Washington,Chelan County,53007,2012,Current smokeless tobacco use,Lower CL,County,Chelan,2012,NA,NA,NA,NA
+Washington,Chelan County,53007,2012,Current smokeless tobacco use,Percent,County,Chelan,2012,NA,NA,NA,NA
+Washington,Chelan County,53007,2013,Current smokeless tobacco use,RSE,County,Chelan,2013,NA,NA,NA,71.2
+Washington,Chelan County,53007,2013,Current smokeless tobacco use,Upper CL,County,Chelan,2013,NA,NA,NA,NA
+Washington,Chelan County,53007,2013,Current smokeless tobacco use,Lower CL,County,Chelan,2013,NA,NA,NA,NA
+Washington,Chelan County,53007,2013,Current smokeless tobacco use,Percent,County,Chelan,2013,NA,NA,NA,NA
+Washington,Chelan County,53007,2014,Current smokeless tobacco use,RSE,County,Chelan,2014,NA,NA,NA,57.4
+Washington,Chelan County,53007,2014,Current smokeless tobacco use,Upper CL,County,Chelan,2014,NA,NA,NA,NA
+Washington,Chelan County,53007,2014,Current smokeless tobacco use,Lower CL,County,Chelan,2014,NA,NA,NA,NA
+Washington,Chelan County,53007,2014,Current smokeless tobacco use,Percent,County,Chelan,2014,NA,NA,NA,NA
+Washington,Clallam County,53009,2011,Current smokeless tobacco use,RSE,County,Clallam,2011,NA,NA,NA,60.6
+Washington,Clallam County,53009,2011,Current smokeless tobacco use,Upper CL,County,Clallam,2011,NA,NA,NA,NA
+Washington,Clallam County,53009,2011,Current smokeless tobacco use,Lower CL,County,Clallam,2011,NA,NA,NA,NA
+Washington,Clallam County,53009,2011,Current smokeless tobacco use,Percent,County,Clallam,2011,NA,NA,NA,NA
+Washington,Clallam County,53009,2012,Current smokeless tobacco use,RSE,County,Clallam,2012,NA,NA,NA,37.9
+Washington,Clallam County,53009,2012,Current smokeless tobacco use,Upper CL,County,Clallam,2012,NA,NA,NA,NA
+Washington,Clallam County,53009,2012,Current smokeless tobacco use,Lower CL,County,Clallam,2012,NA,NA,NA,NA
+Washington,Clallam County,53009,2012,Current smokeless tobacco use,Percent,County,Clallam,2012,NA,NA,NA,NA
+Washington,Clallam County,53009,2013,Current smokeless tobacco use,RSE,County,Clallam,2013,NA,NA,NA,65.1
+Washington,Clallam County,53009,2013,Current smokeless tobacco use,Upper CL,County,Clallam,2013,NA,NA,NA,NA
+Washington,Clallam County,53009,2013,Current smokeless tobacco use,Lower CL,County,Clallam,2013,NA,NA,NA,NA
+Washington,Clallam County,53009,2013,Current smokeless tobacco use,Percent,County,Clallam,2013,NA,NA,NA,NA
+Washington,Clallam County,53009,2014,Current smokeless tobacco use,RSE,County,Clallam,2014,NA,NA,NA,48.4
+Washington,Clallam County,53009,2014,Current smokeless tobacco use,Upper CL,County,Clallam,2014,NA,NA,NA,NA
+Washington,Clallam County,53009,2014,Current smokeless tobacco use,Lower CL,County,Clallam,2014,NA,NA,NA,NA
+Washington,Clallam County,53009,2014,Current smokeless tobacco use,Percent,County,Clallam,2014,NA,NA,NA,NA
+Washington,Clark County,53011,2011,Current smokeless tobacco use,RSE,County,Clark,2011,1.7,3.6,5.5,27.6
+Washington,Clark County,53011,2011,Current smokeless tobacco use,Upper CL,County,Clark,2011,1.7,3.6,5.5,5.5
+Washington,Clark County,53011,2011,Current smokeless tobacco use,Lower CL,County,Clark,2011,1.7,3.6,5.5,1.7
+Washington,Clark County,53011,2011,Current smokeless tobacco use,Percent,County,Clark,2011,1.7,3.6,5.5,3.6
+Washington,Clark County,53011,2012,Current smokeless tobacco use,RSE,County,Clark,2012,NA,NA,NA,32.3
+Washington,Clark County,53011,2012,Current smokeless tobacco use,Upper CL,County,Clark,2012,NA,NA,NA,NA
+Washington,Clark County,53011,2012,Current smokeless tobacco use,Lower CL,County,Clark,2012,NA,NA,NA,NA
+Washington,Clark County,53011,2012,Current smokeless tobacco use,Percent,County,Clark,2012,NA,NA,NA,NA
+Washington,Clark County,53011,2013,Current smokeless tobacco use,RSE,County,Clark,2013,3.1,5.8,8.6,23.7
+Washington,Clark County,53011,2013,Current smokeless tobacco use,Upper CL,County,Clark,2013,3.1,5.8,8.6,8.6
+Washington,Clark County,53011,2013,Current smokeless tobacco use,Lower CL,County,Clark,2013,3.1,5.8,8.6,3.1
+Washington,Clark County,53011,2013,Current smokeless tobacco use,Percent,County,Clark,2013,3.1,5.8,8.6,5.8
+Washington,Clark County,53011,2014,Current smokeless tobacco use,RSE,County,Clark,2014,NA,NA,NA,38.5
+Washington,Clark County,53011,2014,Current smokeless tobacco use,Upper CL,County,Clark,2014,NA,NA,NA,NA
+Washington,Clark County,53011,2014,Current smokeless tobacco use,Lower CL,County,Clark,2014,NA,NA,NA,NA
+Washington,Clark County,53011,2014,Current smokeless tobacco use,Percent,County,Clark,2014,NA,NA,NA,NA
+Washington,Columbia County,53013,2011,Current smokeless tobacco use,RSE,County,Columbia,2011,NA,NA,NA,45.3
+Washington,Columbia County,53013,2011,Current smokeless tobacco use,Upper CL,County,Columbia,2011,NA,NA,NA,NA
+Washington,Columbia County,53013,2011,Current smokeless tobacco use,Lower CL,County,Columbia,2011,NA,NA,NA,NA
+Washington,Columbia County,53013,2011,Current smokeless tobacco use,Percent,County,Columbia,2011,NA,NA,NA,NA
+Washington,Columbia County,53013,2012,Current smokeless tobacco use,RSE,County,Columbia,2012,NA,NA,NA,100.3
+Washington,Columbia County,53013,2012,Current smokeless tobacco use,Upper CL,County,Columbia,2012,NA,NA,NA,NA
+Washington,Columbia County,53013,2012,Current smokeless tobacco use,Lower CL,County,Columbia,2012,NA,NA,NA,NA
+Washington,Columbia County,53013,2012,Current smokeless tobacco use,Percent,County,Columbia,2012,NA,NA,NA,NA
+Washington,Columbia County,53013,2013,Current smokeless tobacco use,RSE,County,Columbia,2013,NA,NA,NA,48.9
+Washington,Columbia County,53013,2013,Current smokeless tobacco use,Upper CL,County,Columbia,2013,NA,NA,NA,NA
+Washington,Columbia County,53013,2013,Current smokeless tobacco use,Lower CL,County,Columbia,2013,NA,NA,NA,NA
+Washington,Columbia County,53013,2013,Current smokeless tobacco use,Percent,County,Columbia,2013,NA,NA,NA,NA
+Washington,Columbia County,53013,2014,Current smokeless tobacco use,RSE,County,Columbia,2014,NA,NA,NA,68
+Washington,Columbia County,53013,2014,Current smokeless tobacco use,Upper CL,County,Columbia,2014,NA,NA,NA,NA
+Washington,Columbia County,53013,2014,Current smokeless tobacco use,Lower CL,County,Columbia,2014,NA,NA,NA,NA
+Washington,Columbia County,53013,2014,Current smokeless tobacco use,Percent,County,Columbia,2014,NA,NA,NA,NA
+Washington,Cowlitz County,53015,2011,Current smokeless tobacco use,RSE,County,Cowlitz,2011,NA,NA,NA,40.5
+Washington,Cowlitz County,53015,2011,Current smokeless tobacco use,Upper CL,County,Cowlitz,2011,NA,NA,NA,NA
+Washington,Cowlitz County,53015,2011,Current smokeless tobacco use,Lower CL,County,Cowlitz,2011,NA,NA,NA,NA
+Washington,Cowlitz County,53015,2011,Current smokeless tobacco use,Percent,County,Cowlitz,2011,NA,NA,NA,NA
+Washington,Cowlitz County,53015,2012,Current smokeless tobacco use,RSE,County,Cowlitz,2012,NA,NA,NA,35.5
+Washington,Cowlitz County,53015,2012,Current smokeless tobacco use,Upper CL,County,Cowlitz,2012,NA,NA,NA,NA
+Washington,Cowlitz County,53015,2012,Current smokeless tobacco use,Lower CL,County,Cowlitz,2012,NA,NA,NA,NA
+Washington,Cowlitz County,53015,2012,Current smokeless tobacco use,Percent,County,Cowlitz,2012,NA,NA,NA,NA
+Washington,Cowlitz County,53015,2013,Current smokeless tobacco use,RSE,County,Cowlitz,2013,NA,NA,NA,42.6
+Washington,Cowlitz County,53015,2013,Current smokeless tobacco use,Upper CL,County,Cowlitz,2013,NA,NA,NA,NA
+Washington,Cowlitz County,53015,2013,Current smokeless tobacco use,Lower CL,County,Cowlitz,2013,NA,NA,NA,NA
+Washington,Cowlitz County,53015,2013,Current smokeless tobacco use,Percent,County,Cowlitz,2013,NA,NA,NA,NA
+Washington,Cowlitz County,53015,2014,Current smokeless tobacco use,RSE,County,Cowlitz,2014,NA,NA,NA,69.8
+Washington,Cowlitz County,53015,2014,Current smokeless tobacco use,Upper CL,County,Cowlitz,2014,NA,NA,NA,NA
+Washington,Cowlitz County,53015,2014,Current smokeless tobacco use,Lower CL,County,Cowlitz,2014,NA,NA,NA,NA
+Washington,Cowlitz County,53015,2014,Current smokeless tobacco use,Percent,County,Cowlitz,2014,NA,NA,NA,NA
+Washington,Douglas County,53017,2011,Current smokeless tobacco use,RSE,County,Douglas,2011,NA,NA,NA,60.1
+Washington,Douglas County,53017,2011,Current smokeless tobacco use,Upper CL,County,Douglas,2011,NA,NA,NA,NA
+Washington,Douglas County,53017,2011,Current smokeless tobacco use,Lower CL,County,Douglas,2011,NA,NA,NA,NA
+Washington,Douglas County,53017,2011,Current smokeless tobacco use,Percent,County,Douglas,2011,NA,NA,NA,NA
+Washington,Douglas County,53017,2012,Current smokeless tobacco use,RSE,County,Douglas,2012,NA,NA,NA,52.3
+Washington,Douglas County,53017,2012,Current smokeless tobacco use,Upper CL,County,Douglas,2012,NA,NA,NA,NA
+Washington,Douglas County,53017,2012,Current smokeless tobacco use,Lower CL,County,Douglas,2012,NA,NA,NA,NA
+Washington,Douglas County,53017,2012,Current smokeless tobacco use,Percent,County,Douglas,2012,NA,NA,NA,NA
+Washington,Douglas County,53017,2013,Current smokeless tobacco use,RSE,County,Douglas,2013,NA,NA,NA,101.1
+Washington,Douglas County,53017,2013,Current smokeless tobacco use,Upper CL,County,Douglas,2013,NA,NA,NA,NA
+Washington,Douglas County,53017,2013,Current smokeless tobacco use,Lower CL,County,Douglas,2013,NA,NA,NA,NA
+Washington,Douglas County,53017,2013,Current smokeless tobacco use,Percent,County,Douglas,2013,NA,NA,NA,NA
+Washington,Douglas County,53017,2014,Current smokeless tobacco use,RSE,County,Douglas,2014,NA,NA,NA,71.1
+Washington,Douglas County,53017,2014,Current smokeless tobacco use,Upper CL,County,Douglas,2014,NA,NA,NA,NA
+Washington,Douglas County,53017,2014,Current smokeless tobacco use,Lower CL,County,Douglas,2014,NA,NA,NA,NA
+Washington,Douglas County,53017,2014,Current smokeless tobacco use,Percent,County,Douglas,2014,NA,NA,NA,NA
+Washington,Ferry County,53019,2011,Current smokeless tobacco use,RSE,County,Ferry,2011,NA,NA,NA,79.2
+Washington,Ferry County,53019,2011,Current smokeless tobacco use,Upper CL,County,Ferry,2011,NA,NA,NA,NA
+Washington,Ferry County,53019,2011,Current smokeless tobacco use,Lower CL,County,Ferry,2011,NA,NA,NA,NA
+Washington,Ferry County,53019,2011,Current smokeless tobacco use,Percent,County,Ferry,2011,NA,NA,NA,NA
+Washington,Ferry County,53019,2012,Current smokeless tobacco use,RSE,County,Ferry,2012,NA,NA,NA,102.4
+Washington,Ferry County,53019,2012,Current smokeless tobacco use,Upper CL,County,Ferry,2012,NA,NA,NA,NA
+Washington,Ferry County,53019,2012,Current smokeless tobacco use,Lower CL,County,Ferry,2012,NA,NA,NA,NA
+Washington,Ferry County,53019,2012,Current smokeless tobacco use,Percent,County,Ferry,2012,NA,NA,NA,NA
+Washington,Ferry County,53019,2013,Current smokeless tobacco use,RSE,County,Ferry,2013,NA,NA,NA,53.3
+Washington,Ferry County,53019,2013,Current smokeless tobacco use,Upper CL,County,Ferry,2013,NA,NA,NA,NA
+Washington,Ferry County,53019,2013,Current smokeless tobacco use,Lower CL,County,Ferry,2013,NA,NA,NA,NA
+Washington,Ferry County,53019,2013,Current smokeless tobacco use,Percent,County,Ferry,2013,NA,NA,NA,NA
+Washington,Ferry County,53019,2014,Current smokeless tobacco use,RSE,County,Ferry,2014,NA,NA,NA,NA
+Washington,Ferry County,53019,2014,Current smokeless tobacco use,Upper CL,County,Ferry,2014,NA,NA,NA,NA
+Washington,Ferry County,53019,2014,Current smokeless tobacco use,Lower CL,County,Ferry,2014,NA,NA,NA,NA
+Washington,Ferry County,53019,2014,Current smokeless tobacco use,Percent,County,Ferry,2014,NA,NA,NA,NA
+Washington,Franklin County,53021,2011,Current smokeless tobacco use,RSE,County,Franklin,2011,NA,NA,NA,57.2
+Washington,Franklin County,53021,2011,Current smokeless tobacco use,Upper CL,County,Franklin,2011,NA,NA,NA,NA
+Washington,Franklin County,53021,2011,Current smokeless tobacco use,Lower CL,County,Franklin,2011,NA,NA,NA,NA
+Washington,Franklin County,53021,2011,Current smokeless tobacco use,Percent,County,Franklin,2011,NA,NA,NA,NA
+Washington,Franklin County,53021,2012,Current smokeless tobacco use,RSE,County,Franklin,2012,NA,NA,NA,59
+Washington,Franklin County,53021,2012,Current smokeless tobacco use,Upper CL,County,Franklin,2012,NA,NA,NA,NA
+Washington,Franklin County,53021,2012,Current smokeless tobacco use,Lower CL,County,Franklin,2012,NA,NA,NA,NA
+Washington,Franklin County,53021,2012,Current smokeless tobacco use,Percent,County,Franklin,2012,NA,NA,NA,NA
+Washington,Franklin County,53021,2013,Current smokeless tobacco use,RSE,County,Franklin,2013,NA,NA,NA,50.1
+Washington,Franklin County,53021,2013,Current smokeless tobacco use,Upper CL,County,Franklin,2013,NA,NA,NA,NA
+Washington,Franklin County,53021,2013,Current smokeless tobacco use,Lower CL,County,Franklin,2013,NA,NA,NA,NA
+Washington,Franklin County,53021,2013,Current smokeless tobacco use,Percent,County,Franklin,2013,NA,NA,NA,NA
+Washington,Franklin County,53021,2014,Current smokeless tobacco use,RSE,County,Franklin,2014,NA,NA,NA,71.5
+Washington,Franklin County,53021,2014,Current smokeless tobacco use,Upper CL,County,Franklin,2014,NA,NA,NA,NA
+Washington,Franklin County,53021,2014,Current smokeless tobacco use,Lower CL,County,Franklin,2014,NA,NA,NA,NA
+Washington,Franklin County,53021,2014,Current smokeless tobacco use,Percent,County,Franklin,2014,NA,NA,NA,NA
+Washington,Garfield County,53023,2011,Current smokeless tobacco use,RSE,County,Garfield,2011,2.3,5.4,8.6,29.7
+Washington,Garfield County,53023,2011,Current smokeless tobacco use,Upper CL,County,Garfield,2011,2.3,5.4,8.6,8.6
+Washington,Garfield County,53023,2011,Current smokeless tobacco use,Lower CL,County,Garfield,2011,2.3,5.4,8.6,2.3
+Washington,Garfield County,53023,2011,Current smokeless tobacco use,Percent,County,Garfield,2011,2.3,5.4,8.6,5.4
+Washington,Garfield County,53023,2012,Current smokeless tobacco use,RSE,County,Garfield,2012,NA,NA,NA,42.2
+Washington,Garfield County,53023,2012,Current smokeless tobacco use,Upper CL,County,Garfield,2012,NA,NA,NA,NA
+Washington,Garfield County,53023,2012,Current smokeless tobacco use,Lower CL,County,Garfield,2012,NA,NA,NA,NA
+Washington,Garfield County,53023,2012,Current smokeless tobacco use,Percent,County,Garfield,2012,NA,NA,NA,NA
+Washington,Garfield County,53023,2013,Current smokeless tobacco use,RSE,County,Garfield,2013,NA,NA,NA,82.3
+Washington,Garfield County,53023,2013,Current smokeless tobacco use,Upper CL,County,Garfield,2013,NA,NA,NA,NA
+Washington,Garfield County,53023,2013,Current smokeless tobacco use,Lower CL,County,Garfield,2013,NA,NA,NA,NA
+Washington,Garfield County,53023,2013,Current smokeless tobacco use,Percent,County,Garfield,2013,NA,NA,NA,NA
+Washington,Garfield County,53023,2014,Current smokeless tobacco use,RSE,County,Garfield,2014,NA,NA,NA,72.7
+Washington,Garfield County,53023,2014,Current smokeless tobacco use,Upper CL,County,Garfield,2014,NA,NA,NA,NA
+Washington,Garfield County,53023,2014,Current smokeless tobacco use,Lower CL,County,Garfield,2014,NA,NA,NA,NA
+Washington,Garfield County,53023,2014,Current smokeless tobacco use,Percent,County,Garfield,2014,NA,NA,NA,NA
+Washington,Grant County,53025,2011,Current smokeless tobacco use,RSE,County,Grant,2011,NA,NA,NA,58.8
+Washington,Grant County,53025,2011,Current smokeless tobacco use,Upper CL,County,Grant,2011,NA,NA,NA,NA
+Washington,Grant County,53025,2011,Current smokeless tobacco use,Lower CL,County,Grant,2011,NA,NA,NA,NA
+Washington,Grant County,53025,2011,Current smokeless tobacco use,Percent,County,Grant,2011,NA,NA,NA,NA
+Washington,Grant County,53025,2012,Current smokeless tobacco use,RSE,County,Grant,2012,NA,NA,NA,41.4
+Washington,Grant County,53025,2012,Current smokeless tobacco use,Upper CL,County,Grant,2012,NA,NA,NA,NA
+Washington,Grant County,53025,2012,Current smokeless tobacco use,Lower CL,County,Grant,2012,NA,NA,NA,NA
+Washington,Grant County,53025,2012,Current smokeless tobacco use,Percent,County,Grant,2012,NA,NA,NA,NA
+Washington,Grant County,53025,2013,Current smokeless tobacco use,RSE,County,Grant,2013,NA,NA,NA,79.9
+Washington,Grant County,53025,2013,Current smokeless tobacco use,Upper CL,County,Grant,2013,NA,NA,NA,NA
+Washington,Grant County,53025,2013,Current smokeless tobacco use,Lower CL,County,Grant,2013,NA,NA,NA,NA
+Washington,Grant County,53025,2013,Current smokeless tobacco use,Percent,County,Grant,2013,NA,NA,NA,NA
+Washington,Grant County,53025,2014,Current smokeless tobacco use,RSE,County,Grant,2014,NA,NA,NA,45.5
+Washington,Grant County,53025,2014,Current smokeless tobacco use,Upper CL,County,Grant,2014,NA,NA,NA,NA
+Washington,Grant County,53025,2014,Current smokeless tobacco use,Lower CL,County,Grant,2014,NA,NA,NA,NA
+Washington,Grant County,53025,2014,Current smokeless tobacco use,Percent,County,Grant,2014,NA,NA,NA,NA
+Washington,Grays Harbor County,53027,2011,Current smokeless tobacco use,RSE,County,Grays Harbor,2011,NA,NA,NA,55.3
+Washington,Grays Harbor County,53027,2011,Current smokeless tobacco use,Upper CL,County,Grays Harbor,2011,NA,NA,NA,NA
+Washington,Grays Harbor County,53027,2011,Current smokeless tobacco use,Lower CL,County,Grays Harbor,2011,NA,NA,NA,NA
+Washington,Grays Harbor County,53027,2011,Current smokeless tobacco use,Percent,County,Grays Harbor,2011,NA,NA,NA,NA
+Washington,Grays Harbor County,53027,2012,Current smokeless tobacco use,RSE,County,Grays Harbor,2012,NA,NA,NA,37.5
+Washington,Grays Harbor County,53027,2012,Current smokeless tobacco use,Upper CL,County,Grays Harbor,2012,NA,NA,NA,NA
+Washington,Grays Harbor County,53027,2012,Current smokeless tobacco use,Lower CL,County,Grays Harbor,2012,NA,NA,NA,NA
+Washington,Grays Harbor County,53027,2012,Current smokeless tobacco use,Percent,County,Grays Harbor,2012,NA,NA,NA,NA
+Washington,Grays Harbor County,53027,2013,Current smokeless tobacco use,RSE,County,Grays Harbor,2013,NA,NA,NA,35.9
+Washington,Grays Harbor County,53027,2013,Current smokeless tobacco use,Upper CL,County,Grays Harbor,2013,NA,NA,NA,NA
+Washington,Grays Harbor County,53027,2013,Current smokeless tobacco use,Lower CL,County,Grays Harbor,2013,NA,NA,NA,NA
+Washington,Grays Harbor County,53027,2013,Current smokeless tobacco use,Percent,County,Grays Harbor,2013,NA,NA,NA,NA
+Washington,Grays Harbor County,53027,2014,Current smokeless tobacco use,RSE,County,Grays Harbor,2014,NA,NA,NA,50.9
+Washington,Grays Harbor County,53027,2014,Current smokeless tobacco use,Upper CL,County,Grays Harbor,2014,NA,NA,NA,NA
+Washington,Grays Harbor County,53027,2014,Current smokeless tobacco use,Lower CL,County,Grays Harbor,2014,NA,NA,NA,NA
+Washington,Grays Harbor County,53027,2014,Current smokeless tobacco use,Percent,County,Grays Harbor,2014,NA,NA,NA,NA
+Washington,Island County,53029,2011,Current smokeless tobacco use,RSE,County,Island,2011,NA,NA,NA,42.5
+Washington,Island County,53029,2011,Current smokeless tobacco use,Upper CL,County,Island,2011,NA,NA,NA,NA
+Washington,Island County,53029,2011,Current smokeless tobacco use,Lower CL,County,Island,2011,NA,NA,NA,NA
+Washington,Island County,53029,2011,Current smokeless tobacco use,Percent,County,Island,2011,NA,NA,NA,NA
+Washington,Island County,53029,2012,Current smokeless tobacco use,RSE,County,Island,2012,NA,NA,NA,78.2
+Washington,Island County,53029,2012,Current smokeless tobacco use,Upper CL,County,Island,2012,NA,NA,NA,NA
+Washington,Island County,53029,2012,Current smokeless tobacco use,Lower CL,County,Island,2012,NA,NA,NA,NA
+Washington,Island County,53029,2012,Current smokeless tobacco use,Percent,County,Island,2012,NA,NA,NA,NA
+Washington,Island County,53029,2013,Current smokeless tobacco use,RSE,County,Island,2013,NA,NA,NA,52.3
+Washington,Island County,53029,2013,Current smokeless tobacco use,Upper CL,County,Island,2013,NA,NA,NA,NA
+Washington,Island County,53029,2013,Current smokeless tobacco use,Lower CL,County,Island,2013,NA,NA,NA,NA
+Washington,Island County,53029,2013,Current smokeless tobacco use,Percent,County,Island,2013,NA,NA,NA,NA
+Washington,Island County,53029,2014,Current smokeless tobacco use,RSE,County,Island,2014,NA,NA,NA,70.7
+Washington,Island County,53029,2014,Current smokeless tobacco use,Upper CL,County,Island,2014,NA,NA,NA,NA
+Washington,Island County,53029,2014,Current smokeless tobacco use,Lower CL,County,Island,2014,NA,NA,NA,NA
+Washington,Island County,53029,2014,Current smokeless tobacco use,Percent,County,Island,2014,NA,NA,NA,NA
+Washington,Jefferson County,53031,2011,Current smokeless tobacco use,RSE,County,Jefferson,2011,NA,NA,NA,60.2
+Washington,Jefferson County,53031,2011,Current smokeless tobacco use,Upper CL,County,Jefferson,2011,NA,NA,NA,NA
+Washington,Jefferson County,53031,2011,Current smokeless tobacco use,Lower CL,County,Jefferson,2011,NA,NA,NA,NA
+Washington,Jefferson County,53031,2011,Current smokeless tobacco use,Percent,County,Jefferson,2011,NA,NA,NA,NA
+Washington,Jefferson County,53031,2012,Current smokeless tobacco use,RSE,County,Jefferson,2012,NA,NA,NA,99.4
+Washington,Jefferson County,53031,2012,Current smokeless tobacco use,Upper CL,County,Jefferson,2012,NA,NA,NA,NA
+Washington,Jefferson County,53031,2012,Current smokeless tobacco use,Lower CL,County,Jefferson,2012,NA,NA,NA,NA
+Washington,Jefferson County,53031,2012,Current smokeless tobacco use,Percent,County,Jefferson,2012,NA,NA,NA,NA
+Washington,Jefferson County,53031,2013,Current smokeless tobacco use,RSE,County,Jefferson,2013,NA,NA,NA,98.1
+Washington,Jefferson County,53031,2013,Current smokeless tobacco use,Upper CL,County,Jefferson,2013,NA,NA,NA,NA
+Washington,Jefferson County,53031,2013,Current smokeless tobacco use,Lower CL,County,Jefferson,2013,NA,NA,NA,NA
+Washington,Jefferson County,53031,2013,Current smokeless tobacco use,Percent,County,Jefferson,2013,NA,NA,NA,NA
+Washington,Jefferson County,53031,2014,Current smokeless tobacco use,RSE,County,Jefferson,2014,NA,NA,NA,96.6
+Washington,Jefferson County,53031,2014,Current smokeless tobacco use,Upper CL,County,Jefferson,2014,NA,NA,NA,NA
+Washington,Jefferson County,53031,2014,Current smokeless tobacco use,Lower CL,County,Jefferson,2014,NA,NA,NA,NA
+Washington,Jefferson County,53031,2014,Current smokeless tobacco use,Percent,County,Jefferson,2014,NA,NA,NA,NA
+Washington,King County,53033,2011,Current smokeless tobacco use,RSE,Accountable Communities Of Health,King,2011,1.8,3,4.2,20.5
+Washington,King County,53033,2011,Current smokeless tobacco use,Upper CL,Accountable Communities Of Health,King,2011,1.8,3,4.2,4.2
+Washington,King County,53033,2011,Current smokeless tobacco use,Lower CL,Accountable Communities Of Health,King,2011,1.8,3,4.2,1.8
+Washington,King County,53033,2011,Current smokeless tobacco use,Percent,Accountable Communities Of Health,King,2011,1.8,3,4.2,3
+Washington,King County,53033,2011,Current smokeless tobacco use,RSE,County,King,2011,1.8,3,4.2,20.5
+Washington,King County,53033,2011,Current smokeless tobacco use,Upper CL,County,King,2011,1.8,3,4.2,4.2
+Washington,King County,53033,2011,Current smokeless tobacco use,Lower CL,County,King,2011,1.8,3,4.2,1.8
+Washington,King County,53033,2011,Current smokeless tobacco use,Percent,County,King,2011,1.8,3,4.2,3
+Washington,King County,53033,2012,Current smokeless tobacco use,RSE,Accountable Communities Of Health,King,2012,2,2.9,3.7,14.9
+Washington,King County,53033,2012,Current smokeless tobacco use,Upper CL,Accountable Communities Of Health,King,2012,2,2.9,3.7,3.7
+Washington,King County,53033,2012,Current smokeless tobacco use,Lower CL,Accountable Communities Of Health,King,2012,2,2.9,3.7,2
+Washington,King County,53033,2012,Current smokeless tobacco use,Percent,Accountable Communities Of Health,King,2012,2,2.9,3.7,2.9
+Washington,King County,53033,2012,Current smokeless tobacco use,RSE,County,King,2012,2,2.9,3.7,14.9
+Washington,King County,53033,2012,Current smokeless tobacco use,Upper CL,County,King,2012,2,2.9,3.7,3.7
+Washington,King County,53033,2012,Current smokeless tobacco use,Lower CL,County,King,2012,2,2.9,3.7,2
+Washington,King County,53033,2012,Current smokeless tobacco use,Percent,County,King,2012,2,2.9,3.7,2.9
+Washington,King County,53033,2013,Current smokeless tobacco use,RSE,Accountable Communities Of Health,King,2013,1.9,2.6,3.4,14.8
+Washington,King County,53033,2013,Current smokeless tobacco use,Upper CL,Accountable Communities Of Health,King,2013,1.9,2.6,3.4,3.4
+Washington,King County,53033,2013,Current smokeless tobacco use,Lower CL,Accountable Communities Of Health,King,2013,1.9,2.6,3.4,1.9
+Washington,King County,53033,2013,Current smokeless tobacco use,Percent,Accountable Communities Of Health,King,2013,1.9,2.6,3.4,2.6
+Washington,King County,53033,2013,Current smokeless tobacco use,RSE,County,King,2013,1.9,2.6,3.4,14.8
+Washington,King County,53033,2013,Current smokeless tobacco use,Upper CL,County,King,2013,1.9,2.6,3.4,3.4
+Washington,King County,53033,2013,Current smokeless tobacco use,Lower CL,County,King,2013,1.9,2.6,3.4,1.9
+Washington,King County,53033,2013,Current smokeless tobacco use,Percent,County,King,2013,1.9,2.6,3.4,2.6
+Washington,King County,53033,2014,Current smokeless tobacco use,RSE,Accountable Communities Of Health,King,2014,1.2,2,2.8,21.6
+Washington,King County,53033,2014,Current smokeless tobacco use,Upper CL,Accountable Communities Of Health,King,2014,1.2,2,2.8,2.8
+Washington,King County,53033,2014,Current smokeless tobacco use,Lower CL,Accountable Communities Of Health,King,2014,1.2,2,2.8,1.2
+Washington,King County,53033,2014,Current smokeless tobacco use,Percent,Accountable Communities Of Health,King,2014,1.2,2,2.8,2
+Washington,King County,53033,2014,Current smokeless tobacco use,RSE,County,King,2014,1.2,2,2.8,21.6
+Washington,King County,53033,2014,Current smokeless tobacco use,Upper CL,County,King,2014,1.2,2,2.8,2.8
+Washington,King County,53033,2014,Current smokeless tobacco use,Lower CL,County,King,2014,1.2,2,2.8,1.2
+Washington,King County,53033,2014,Current smokeless tobacco use,Percent,County,King,2014,1.2,2,2.8,2
+Washington,Kitsap County,53035,2011,Current smokeless tobacco use,RSE,County,Kitsap,2011,NA,NA,NA,41.8
+Washington,Kitsap County,53035,2011,Current smokeless tobacco use,Upper CL,County,Kitsap,2011,NA,NA,NA,NA
+Washington,Kitsap County,53035,2011,Current smokeless tobacco use,Lower CL,County,Kitsap,2011,NA,NA,NA,NA
+Washington,Kitsap County,53035,2011,Current smokeless tobacco use,Percent,County,Kitsap,2011,NA,NA,NA,NA
+Washington,Kitsap County,53035,2012,Current smokeless tobacco use,RSE,County,Kitsap,2012,NA,NA,NA,35.5
+Washington,Kitsap County,53035,2012,Current smokeless tobacco use,Upper CL,County,Kitsap,2012,NA,NA,NA,NA
+Washington,Kitsap County,53035,2012,Current smokeless tobacco use,Lower CL,County,Kitsap,2012,NA,NA,NA,NA
+Washington,Kitsap County,53035,2012,Current smokeless tobacco use,Percent,County,Kitsap,2012,NA,NA,NA,NA
+Washington,Kitsap County,53035,2013,Current smokeless tobacco use,RSE,County,Kitsap,2013,NA,NA,NA,42.1
+Washington,Kitsap County,53035,2013,Current smokeless tobacco use,Upper CL,County,Kitsap,2013,NA,NA,NA,NA
+Washington,Kitsap County,53035,2013,Current smokeless tobacco use,Lower CL,County,Kitsap,2013,NA,NA,NA,NA
+Washington,Kitsap County,53035,2013,Current smokeless tobacco use,Percent,County,Kitsap,2013,NA,NA,NA,NA
+Washington,Kitsap County,53035,2014,Current smokeless tobacco use,RSE,County,Kitsap,2014,NA,NA,NA,38.1
+Washington,Kitsap County,53035,2014,Current smokeless tobacco use,Upper CL,County,Kitsap,2014,NA,NA,NA,NA
+Washington,Kitsap County,53035,2014,Current smokeless tobacco use,Lower CL,County,Kitsap,2014,NA,NA,NA,NA
+Washington,Kitsap County,53035,2014,Current smokeless tobacco use,Percent,County,Kitsap,2014,NA,NA,NA,NA
+Washington,Kittitas County,53037,2011,Current smokeless tobacco use,RSE,County,Kittitas,2011,1.2,2.7,4.3,29.4
+Washington,Kittitas County,53037,2011,Current smokeless tobacco use,Upper CL,County,Kittitas,2011,1.2,2.7,4.3,4.3
+Washington,Kittitas County,53037,2011,Current smokeless tobacco use,Lower CL,County,Kittitas,2011,1.2,2.7,4.3,1.2
+Washington,Kittitas County,53037,2011,Current smokeless tobacco use,Percent,County,Kittitas,2011,1.2,2.7,4.3,2.7
+Washington,Kittitas County,53037,2012,Current smokeless tobacco use,RSE,County,Kittitas,2012,NA,NA,NA,50.9
+Washington,Kittitas County,53037,2012,Current smokeless tobacco use,Upper CL,County,Kittitas,2012,NA,NA,NA,NA
+Washington,Kittitas County,53037,2012,Current smokeless tobacco use,Lower CL,County,Kittitas,2012,NA,NA,NA,NA
+Washington,Kittitas County,53037,2012,Current smokeless tobacco use,Percent,County,Kittitas,2012,NA,NA,NA,NA
+Washington,Kittitas County,53037,2013,Current smokeless tobacco use,RSE,County,Kittitas,2013,NA,NA,NA,47.7
+Washington,Kittitas County,53037,2013,Current smokeless tobacco use,Upper CL,County,Kittitas,2013,NA,NA,NA,NA
+Washington,Kittitas County,53037,2013,Current smokeless tobacco use,Lower CL,County,Kittitas,2013,NA,NA,NA,NA
+Washington,Kittitas County,53037,2013,Current smokeless tobacco use,Percent,County,Kittitas,2013,NA,NA,NA,NA
+Washington,Kittitas County,53037,2014,Current smokeless tobacco use,RSE,County,Kittitas,2014,NA,NA,NA,55.5
+Washington,Kittitas County,53037,2014,Current smokeless tobacco use,Upper CL,County,Kittitas,2014,NA,NA,NA,NA
+Washington,Kittitas County,53037,2014,Current smokeless tobacco use,Lower CL,County,Kittitas,2014,NA,NA,NA,NA
+Washington,Kittitas County,53037,2014,Current smokeless tobacco use,Percent,County,Kittitas,2014,NA,NA,NA,NA
+Washington,Klickitat County,53039,2011,Current smokeless tobacco use,RSE,County,Klickitat,2011,NA,NA,NA,51.3
+Washington,Klickitat County,53039,2011,Current smokeless tobacco use,Upper CL,County,Klickitat,2011,NA,NA,NA,NA
+Washington,Klickitat County,53039,2011,Current smokeless tobacco use,Lower CL,County,Klickitat,2011,NA,NA,NA,NA
+Washington,Klickitat County,53039,2011,Current smokeless tobacco use,Percent,County,Klickitat,2011,NA,NA,NA,NA
+Washington,Klickitat County,53039,2012,Current smokeless tobacco use,RSE,County,Klickitat,2012,NA,NA,NA,69.7
+Washington,Klickitat County,53039,2012,Current smokeless tobacco use,Upper CL,County,Klickitat,2012,NA,NA,NA,NA
+Washington,Klickitat County,53039,2012,Current smokeless tobacco use,Lower CL,County,Klickitat,2012,NA,NA,NA,NA
+Washington,Klickitat County,53039,2012,Current smokeless tobacco use,Percent,County,Klickitat,2012,NA,NA,NA,NA
+Washington,Klickitat County,53039,2013,Current smokeless tobacco use,RSE,County,Klickitat,2013,NA,NA,NA,56.5
+Washington,Klickitat County,53039,2013,Current smokeless tobacco use,Upper CL,County,Klickitat,2013,NA,NA,NA,NA
+Washington,Klickitat County,53039,2013,Current smokeless tobacco use,Lower CL,County,Klickitat,2013,NA,NA,NA,NA
+Washington,Klickitat County,53039,2013,Current smokeless tobacco use,Percent,County,Klickitat,2013,NA,NA,NA,NA
+Washington,Klickitat County,53039,2014,Current smokeless tobacco use,RSE,County,Klickitat,2014,NA,NA,NA,63.1
+Washington,Klickitat County,53039,2014,Current smokeless tobacco use,Upper CL,County,Klickitat,2014,NA,NA,NA,NA
+Washington,Klickitat County,53039,2014,Current smokeless tobacco use,Lower CL,County,Klickitat,2014,NA,NA,NA,NA
+Washington,Klickitat County,53039,2014,Current smokeless tobacco use,Percent,County,Klickitat,2014,NA,NA,NA,NA
+Washington,Lewis County,53041,2011,Current smokeless tobacco use,RSE,County,Lewis,2011,NA,NA,NA,46.3
+Washington,Lewis County,53041,2011,Current smokeless tobacco use,Upper CL,County,Lewis,2011,NA,NA,NA,NA
+Washington,Lewis County,53041,2011,Current smokeless tobacco use,Lower CL,County,Lewis,2011,NA,NA,NA,NA
+Washington,Lewis County,53041,2011,Current smokeless tobacco use,Percent,County,Lewis,2011,NA,NA,NA,NA
+Washington,Lewis County,53041,2012,Current smokeless tobacco use,RSE,County,Lewis,2012,NA,NA,NA,45.6
+Washington,Lewis County,53041,2012,Current smokeless tobacco use,Upper CL,County,Lewis,2012,NA,NA,NA,NA
+Washington,Lewis County,53041,2012,Current smokeless tobacco use,Lower CL,County,Lewis,2012,NA,NA,NA,NA
+Washington,Lewis County,53041,2012,Current smokeless tobacco use,Percent,County,Lewis,2012,NA,NA,NA,NA
+Washington,Lewis County,53041,2013,Current smokeless tobacco use,RSE,County,Lewis,2013,NA,NA,NA,99.6
+Washington,Lewis County,53041,2013,Current smokeless tobacco use,Upper CL,County,Lewis,2013,NA,NA,NA,NA
+Washington,Lewis County,53041,2013,Current smokeless tobacco use,Lower CL,County,Lewis,2013,NA,NA,NA,NA
+Washington,Lewis County,53041,2013,Current smokeless tobacco use,Percent,County,Lewis,2013,NA,NA,NA,NA
+Washington,Lewis County,53041,2014,Current smokeless tobacco use,RSE,County,Lewis,2014,NA,NA,NA,38
+Washington,Lewis County,53041,2014,Current smokeless tobacco use,Upper CL,County,Lewis,2014,NA,NA,NA,NA
+Washington,Lewis County,53041,2014,Current smokeless tobacco use,Lower CL,County,Lewis,2014,NA,NA,NA,NA
+Washington,Lewis County,53041,2014,Current smokeless tobacco use,Percent,County,Lewis,2014,NA,NA,NA,NA
+Washington,Lincoln County,53043,2011,Current smokeless tobacco use,RSE,County,Lincoln,2011,NA,NA,NA,47.5
+Washington,Lincoln County,53043,2011,Current smokeless tobacco use,Upper CL,County,Lincoln,2011,NA,NA,NA,NA
+Washington,Lincoln County,53043,2011,Current smokeless tobacco use,Lower CL,County,Lincoln,2011,NA,NA,NA,NA
+Washington,Lincoln County,53043,2011,Current smokeless tobacco use,Percent,County,Lincoln,2011,NA,NA,NA,NA
+Washington,Lincoln County,53043,2012,Current smokeless tobacco use,RSE,County,Lincoln,2012,NA,NA,NA,58.5
+Washington,Lincoln County,53043,2012,Current smokeless tobacco use,Upper CL,County,Lincoln,2012,NA,NA,NA,NA
+Washington,Lincoln County,53043,2012,Current smokeless tobacco use,Lower CL,County,Lincoln,2012,NA,NA,NA,NA
+Washington,Lincoln County,53043,2012,Current smokeless tobacco use,Percent,County,Lincoln,2012,NA,NA,NA,NA
+Washington,Lincoln County,53043,2013,Current smokeless tobacco use,RSE,County,Lincoln,2013,NA,NA,NA,50.6
+Washington,Lincoln County,53043,2013,Current smokeless tobacco use,Upper CL,County,Lincoln,2013,NA,NA,NA,NA
+Washington,Lincoln County,53043,2013,Current smokeless tobacco use,Lower CL,County,Lincoln,2013,NA,NA,NA,NA
+Washington,Lincoln County,53043,2013,Current smokeless tobacco use,Percent,County,Lincoln,2013,NA,NA,NA,NA
+Washington,Lincoln County,53043,2014,Current smokeless tobacco use,RSE,County,Lincoln,2014,NA,NA,NA,65.9
+Washington,Lincoln County,53043,2014,Current smokeless tobacco use,Upper CL,County,Lincoln,2014,NA,NA,NA,NA
+Washington,Lincoln County,53043,2014,Current smokeless tobacco use,Lower CL,County,Lincoln,2014,NA,NA,NA,NA
+Washington,Lincoln County,53043,2014,Current smokeless tobacco use,Percent,County,Lincoln,2014,NA,NA,NA,NA
+Washington,Mason County,53045,2011,Current smokeless tobacco use,RSE,County,Mason,2011,NA,NA,NA,37.8
+Washington,Mason County,53045,2011,Current smokeless tobacco use,Upper CL,County,Mason,2011,NA,NA,NA,NA
+Washington,Mason County,53045,2011,Current smokeless tobacco use,Lower CL,County,Mason,2011,NA,NA,NA,NA
+Washington,Mason County,53045,2011,Current smokeless tobacco use,Percent,County,Mason,2011,NA,NA,NA,NA
+Washington,Mason County,53045,2012,Current smokeless tobacco use,RSE,County,Mason,2012,NA,NA,NA,55.8
+Washington,Mason County,53045,2012,Current smokeless tobacco use,Upper CL,County,Mason,2012,NA,NA,NA,NA
+Washington,Mason County,53045,2012,Current smokeless tobacco use,Lower CL,County,Mason,2012,NA,NA,NA,NA
+Washington,Mason County,53045,2012,Current smokeless tobacco use,Percent,County,Mason,2012,NA,NA,NA,NA
+Washington,Mason County,53045,2013,Current smokeless tobacco use,RSE,County,Mason,2013,NA,NA,NA,61.3
+Washington,Mason County,53045,2013,Current smokeless tobacco use,Upper CL,County,Mason,2013,NA,NA,NA,NA
+Washington,Mason County,53045,2013,Current smokeless tobacco use,Lower CL,County,Mason,2013,NA,NA,NA,NA
+Washington,Mason County,53045,2013,Current smokeless tobacco use,Percent,County,Mason,2013,NA,NA,NA,NA
+Washington,Mason County,53045,2014,Current smokeless tobacco use,RSE,County,Mason,2014,NA,NA,NA,60.7
+Washington,Mason County,53045,2014,Current smokeless tobacco use,Upper CL,County,Mason,2014,NA,NA,NA,NA
+Washington,Mason County,53045,2014,Current smokeless tobacco use,Lower CL,County,Mason,2014,NA,NA,NA,NA
+Washington,Mason County,53045,2014,Current smokeless tobacco use,Percent,County,Mason,2014,NA,NA,NA,NA
+Washington,Okanogan County,53047,2011,Current smokeless tobacco use,RSE,County,Okanogan,2011,NA,NA,NA,34
+Washington,Okanogan County,53047,2011,Current smokeless tobacco use,Upper CL,County,Okanogan,2011,NA,NA,NA,NA
+Washington,Okanogan County,53047,2011,Current smokeless tobacco use,Lower CL,County,Okanogan,2011,NA,NA,NA,NA
+Washington,Okanogan County,53047,2011,Current smokeless tobacco use,Percent,County,Okanogan,2011,NA,NA,NA,NA
+Washington,Okanogan County,53047,2012,Current smokeless tobacco use,RSE,County,Okanogan,2012,NA,NA,NA,41.1
+Washington,Okanogan County,53047,2012,Current smokeless tobacco use,Upper CL,County,Okanogan,2012,NA,NA,NA,NA
+Washington,Okanogan County,53047,2012,Current smokeless tobacco use,Lower CL,County,Okanogan,2012,NA,NA,NA,NA
+Washington,Okanogan County,53047,2012,Current smokeless tobacco use,Percent,County,Okanogan,2012,NA,NA,NA,NA
+Washington,Okanogan County,53047,2013,Current smokeless tobacco use,RSE,County,Okanogan,2013,NA,NA,NA,51.9
+Washington,Okanogan County,53047,2013,Current smokeless tobacco use,Upper CL,County,Okanogan,2013,NA,NA,NA,NA
+Washington,Okanogan County,53047,2013,Current smokeless tobacco use,Lower CL,County,Okanogan,2013,NA,NA,NA,NA
+Washington,Okanogan County,53047,2013,Current smokeless tobacco use,Percent,County,Okanogan,2013,NA,NA,NA,NA
+Washington,Okanogan County,53047,2014,Current smokeless tobacco use,RSE,County,Okanogan,2014,NA,NA,NA,101.2
+Washington,Okanogan County,53047,2014,Current smokeless tobacco use,Upper CL,County,Okanogan,2014,NA,NA,NA,NA
+Washington,Okanogan County,53047,2014,Current smokeless tobacco use,Lower CL,County,Okanogan,2014,NA,NA,NA,NA
+Washington,Okanogan County,53047,2014,Current smokeless tobacco use,Percent,County,Okanogan,2014,NA,NA,NA,NA
+Washington,Pacific County,53049,2011,Current smokeless tobacco use,RSE,County,Pacific,2011,NA,NA,NA,54.6
+Washington,Pacific County,53049,2011,Current smokeless tobacco use,Upper CL,County,Pacific,2011,NA,NA,NA,NA
+Washington,Pacific County,53049,2011,Current smokeless tobacco use,Lower CL,County,Pacific,2011,NA,NA,NA,NA
+Washington,Pacific County,53049,2011,Current smokeless tobacco use,Percent,County,Pacific,2011,NA,NA,NA,NA
+Washington,Pacific County,53049,2012,Current smokeless tobacco use,RSE,County,Pacific,2012,NA,NA,NA,52.7
+Washington,Pacific County,53049,2012,Current smokeless tobacco use,Upper CL,County,Pacific,2012,NA,NA,NA,NA
+Washington,Pacific County,53049,2012,Current smokeless tobacco use,Lower CL,County,Pacific,2012,NA,NA,NA,NA
+Washington,Pacific County,53049,2012,Current smokeless tobacco use,Percent,County,Pacific,2012,NA,NA,NA,NA
+Washington,Pacific County,53049,2013,Current smokeless tobacco use,RSE,County,Pacific,2013,NA,NA,NA,51.1
+Washington,Pacific County,53049,2013,Current smokeless tobacco use,Upper CL,County,Pacific,2013,NA,NA,NA,NA
+Washington,Pacific County,53049,2013,Current smokeless tobacco use,Lower CL,County,Pacific,2013,NA,NA,NA,NA
+Washington,Pacific County,53049,2013,Current smokeless tobacco use,Percent,County,Pacific,2013,NA,NA,NA,NA
+Washington,Pacific County,53049,2014,Current smokeless tobacco use,RSE,County,Pacific,2014,NA,NA,NA,59.2
+Washington,Pacific County,53049,2014,Current smokeless tobacco use,Upper CL,County,Pacific,2014,NA,NA,NA,NA
+Washington,Pacific County,53049,2014,Current smokeless tobacco use,Lower CL,County,Pacific,2014,NA,NA,NA,NA
+Washington,Pacific County,53049,2014,Current smokeless tobacco use,Percent,County,Pacific,2014,NA,NA,NA,NA
+Washington,Pend Oreille County,53051,2011,Current smokeless tobacco use,RSE,County,Pend Oreille,2011,NA,NA,NA,98.9
+Washington,Pend Oreille County,53051,2011,Current smokeless tobacco use,Upper CL,County,Pend Oreille,2011,NA,NA,NA,NA
+Washington,Pend Oreille County,53051,2011,Current smokeless tobacco use,Lower CL,County,Pend Oreille,2011,NA,NA,NA,NA
+Washington,Pend Oreille County,53051,2011,Current smokeless tobacco use,Percent,County,Pend Oreille,2011,NA,NA,NA,NA
+Washington,Pend Oreille County,53051,2012,Current smokeless tobacco use,RSE,County,Pend Oreille,2012,NA,NA,NA,54.6
+Washington,Pend Oreille County,53051,2012,Current smokeless tobacco use,Upper CL,County,Pend Oreille,2012,NA,NA,NA,NA
+Washington,Pend Oreille County,53051,2012,Current smokeless tobacco use,Lower CL,County,Pend Oreille,2012,NA,NA,NA,NA
+Washington,Pend Oreille County,53051,2012,Current smokeless tobacco use,Percent,County,Pend Oreille,2012,NA,NA,NA,NA
+Washington,Pend Oreille County,53051,2013,Current smokeless tobacco use,RSE,County,Pend Oreille,2013,NA,NA,NA,102.4
+Washington,Pend Oreille County,53051,2013,Current smokeless tobacco use,Upper CL,County,Pend Oreille,2013,NA,NA,NA,NA
+Washington,Pend Oreille County,53051,2013,Current smokeless tobacco use,Lower CL,County,Pend Oreille,2013,NA,NA,NA,NA
+Washington,Pend Oreille County,53051,2013,Current smokeless tobacco use,Percent,County,Pend Oreille,2013,NA,NA,NA,NA
+Washington,Pend Oreille County,53051,2014,Current smokeless tobacco use,RSE,County,Pend Oreille,2014,NA,NA,NA,NA
+Washington,Pend Oreille County,53051,2014,Current smokeless tobacco use,Upper CL,County,Pend Oreille,2014,NA,NA,NA,NA
+Washington,Pend Oreille County,53051,2014,Current smokeless tobacco use,Lower CL,County,Pend Oreille,2014,NA,NA,NA,NA
+Washington,Pend Oreille County,53051,2014,Current smokeless tobacco use,Percent,County,Pend Oreille,2014,NA,NA,NA,NA
+Washington,Pierce County,53053,2011,Current smokeless tobacco use,RSE,Accountable Communities Of Health,Pierce,2011,1.4,3.1,4.8,27.6
+Washington,Pierce County,53053,2011,Current smokeless tobacco use,Upper CL,Accountable Communities Of Health,Pierce,2011,1.4,3.1,4.8,4.8
+Washington,Pierce County,53053,2011,Current smokeless tobacco use,Lower CL,Accountable Communities Of Health,Pierce,2011,1.4,3.1,4.8,1.4
+Washington,Pierce County,53053,2011,Current smokeless tobacco use,Percent,Accountable Communities Of Health,Pierce,2011,1.4,3.1,4.8,3.1
+Washington,Pierce County,53053,2011,Current smokeless tobacco use,RSE,County,Pierce,2011,1.4,3.1,4.8,27.6
+Washington,Pierce County,53053,2011,Current smokeless tobacco use,Upper CL,County,Pierce,2011,1.4,3.1,4.8,4.8
+Washington,Pierce County,53053,2011,Current smokeless tobacco use,Lower CL,County,Pierce,2011,1.4,3.1,4.8,1.4
+Washington,Pierce County,53053,2011,Current smokeless tobacco use,Percent,County,Pierce,2011,1.4,3.1,4.8,3.1
+Washington,Pierce County,53053,2012,Current smokeless tobacco use,RSE,Accountable Communities Of Health,Pierce,2012,1.7,2.9,4.2,21.8
+Washington,Pierce County,53053,2012,Current smokeless tobacco use,Upper CL,Accountable Communities Of Health,Pierce,2012,1.7,2.9,4.2,4.2
+Washington,Pierce County,53053,2012,Current smokeless tobacco use,Lower CL,Accountable Communities Of Health,Pierce,2012,1.7,2.9,4.2,1.7
+Washington,Pierce County,53053,2012,Current smokeless tobacco use,Percent,Accountable Communities Of Health,Pierce,2012,1.7,2.9,4.2,2.9
+Washington,Pierce County,53053,2012,Current smokeless tobacco use,RSE,County,Pierce,2012,1.7,2.9,4.2,21.8
+Washington,Pierce County,53053,2012,Current smokeless tobacco use,Upper CL,County,Pierce,2012,1.7,2.9,4.2,4.2
+Washington,Pierce County,53053,2012,Current smokeless tobacco use,Lower CL,County,Pierce,2012,1.7,2.9,4.2,1.7
+Washington,Pierce County,53053,2012,Current smokeless tobacco use,Percent,County,Pierce,2012,1.7,2.9,4.2,2.9
+Washington,Pierce County,53053,2013,Current smokeless tobacco use,RSE,Accountable Communities Of Health,Pierce,2013,2.2,3.9,5.6,21.9
+Washington,Pierce County,53053,2013,Current smokeless tobacco use,Upper CL,Accountable Communities Of Health,Pierce,2013,2.2,3.9,5.6,5.6
+Washington,Pierce County,53053,2013,Current smokeless tobacco use,Lower CL,Accountable Communities Of Health,Pierce,2013,2.2,3.9,5.6,2.2
+Washington,Pierce County,53053,2013,Current smokeless tobacco use,Percent,Accountable Communities Of Health,Pierce,2013,2.2,3.9,5.6,3.9
+Washington,Pierce County,53053,2013,Current smokeless tobacco use,RSE,County,Pierce,2013,2.2,3.9,5.6,21.9
+Washington,Pierce County,53053,2013,Current smokeless tobacco use,Upper CL,County,Pierce,2013,2.2,3.9,5.6,5.6
+Washington,Pierce County,53053,2013,Current smokeless tobacco use,Lower CL,County,Pierce,2013,2.2,3.9,5.6,2.2
+Washington,Pierce County,53053,2013,Current smokeless tobacco use,Percent,County,Pierce,2013,2.2,3.9,5.6,3.9
+Washington,Pierce County,53053,2014,Current smokeless tobacco use,RSE,Accountable Communities Of Health,Pierce,2014,1.4,2.9,4.4,26.5
+Washington,Pierce County,53053,2014,Current smokeless tobacco use,Upper CL,Accountable Communities Of Health,Pierce,2014,1.4,2.9,4.4,4.4
+Washington,Pierce County,53053,2014,Current smokeless tobacco use,Lower CL,Accountable Communities Of Health,Pierce,2014,1.4,2.9,4.4,1.4
+Washington,Pierce County,53053,2014,Current smokeless tobacco use,Percent,Accountable Communities Of Health,Pierce,2014,1.4,2.9,4.4,2.9
+Washington,Pierce County,53053,2014,Current smokeless tobacco use,RSE,County,Pierce,2014,1.4,2.9,4.4,26.5
+Washington,Pierce County,53053,2014,Current smokeless tobacco use,Upper CL,County,Pierce,2014,1.4,2.9,4.4,4.4
+Washington,Pierce County,53053,2014,Current smokeless tobacco use,Lower CL,County,Pierce,2014,1.4,2.9,4.4,1.4
+Washington,Pierce County,53053,2014,Current smokeless tobacco use,Percent,County,Pierce,2014,1.4,2.9,4.4,2.9
+Washington,San Juan County,53055,2011,Current smokeless tobacco use,RSE,County,San Juan,2011,NA,NA,NA,57.4
+Washington,San Juan County,53055,2011,Current smokeless tobacco use,Upper CL,County,San Juan,2011,NA,NA,NA,NA
+Washington,San Juan County,53055,2011,Current smokeless tobacco use,Lower CL,County,San Juan,2011,NA,NA,NA,NA
+Washington,San Juan County,53055,2011,Current smokeless tobacco use,Percent,County,San Juan,2011,NA,NA,NA,NA
+Washington,San Juan County,53055,2012,Current smokeless tobacco use,RSE,County,San Juan,2012,NA,NA,NA,67.5
+Washington,San Juan County,53055,2012,Current smokeless tobacco use,Upper CL,County,San Juan,2012,NA,NA,NA,NA
+Washington,San Juan County,53055,2012,Current smokeless tobacco use,Lower CL,County,San Juan,2012,NA,NA,NA,NA
+Washington,San Juan County,53055,2012,Current smokeless tobacco use,Percent,County,San Juan,2012,NA,NA,NA,NA
+Washington,San Juan County,53055,2013,Current smokeless tobacco use,RSE,County,San Juan,2013,NA,NA,NA,100.1
+Washington,San Juan County,53055,2013,Current smokeless tobacco use,Upper CL,County,San Juan,2013,NA,NA,NA,NA
+Washington,San Juan County,53055,2013,Current smokeless tobacco use,Lower CL,County,San Juan,2013,NA,NA,NA,NA
+Washington,San Juan County,53055,2013,Current smokeless tobacco use,Percent,County,San Juan,2013,NA,NA,NA,NA
+Washington,San Juan County,53055,2014,Current smokeless tobacco use,RSE,County,San Juan,2014,NA,NA,NA,84.8
+Washington,San Juan County,53055,2014,Current smokeless tobacco use,Upper CL,County,San Juan,2014,NA,NA,NA,NA
+Washington,San Juan County,53055,2014,Current smokeless tobacco use,Lower CL,County,San Juan,2014,NA,NA,NA,NA
+Washington,San Juan County,53055,2014,Current smokeless tobacco use,Percent,County,San Juan,2014,NA,NA,NA,NA
+Washington,Skagit County,53057,2011,Current smokeless tobacco use,RSE,County,Skagit,2011,NA,NA,NA,37.5
+Washington,Skagit County,53057,2011,Current smokeless tobacco use,Upper CL,County,Skagit,2011,NA,NA,NA,NA
+Washington,Skagit County,53057,2011,Current smokeless tobacco use,Lower CL,County,Skagit,2011,NA,NA,NA,NA
+Washington,Skagit County,53057,2011,Current smokeless tobacco use,Percent,County,Skagit,2011,NA,NA,NA,NA
+Washington,Skagit County,53057,2012,Current smokeless tobacco use,RSE,County,Skagit,2012,NA,NA,NA,37.6
+Washington,Skagit County,53057,2012,Current smokeless tobacco use,Upper CL,County,Skagit,2012,NA,NA,NA,NA
+Washington,Skagit County,53057,2012,Current smokeless tobacco use,Lower CL,County,Skagit,2012,NA,NA,NA,NA
+Washington,Skagit County,53057,2012,Current smokeless tobacco use,Percent,County,Skagit,2012,NA,NA,NA,NA
+Washington,Skagit County,53057,2013,Current smokeless tobacco use,RSE,County,Skagit,2013,NA,NA,NA,56.7
+Washington,Skagit County,53057,2013,Current smokeless tobacco use,Upper CL,County,Skagit,2013,NA,NA,NA,NA
+Washington,Skagit County,53057,2013,Current smokeless tobacco use,Lower CL,County,Skagit,2013,NA,NA,NA,NA
+Washington,Skagit County,53057,2013,Current smokeless tobacco use,Percent,County,Skagit,2013,NA,NA,NA,NA
+Washington,Skagit County,53057,2014,Current smokeless tobacco use,RSE,County,Skagit,2014,NA,NA,NA,65.5
+Washington,Skagit County,53057,2014,Current smokeless tobacco use,Upper CL,County,Skagit,2014,NA,NA,NA,NA
+Washington,Skagit County,53057,2014,Current smokeless tobacco use,Lower CL,County,Skagit,2014,NA,NA,NA,NA
+Washington,Skagit County,53057,2014,Current smokeless tobacco use,Percent,County,Skagit,2014,NA,NA,NA,NA
+Washington,Skamania County,53059,2011,Current smokeless tobacco use,RSE,County,Skamania,2011,NA,NA,NA,39.1
+Washington,Skamania County,53059,2011,Current smokeless tobacco use,Upper CL,County,Skamania,2011,NA,NA,NA,NA
+Washington,Skamania County,53059,2011,Current smokeless tobacco use,Lower CL,County,Skamania,2011,NA,NA,NA,NA
+Washington,Skamania County,53059,2011,Current smokeless tobacco use,Percent,County,Skamania,2011,NA,NA,NA,NA
+Washington,Skamania County,53059,2012,Current smokeless tobacco use,RSE,County,Skamania,2012,NA,NA,NA,53.3
+Washington,Skamania County,53059,2012,Current smokeless tobacco use,Upper CL,County,Skamania,2012,NA,NA,NA,NA
+Washington,Skamania County,53059,2012,Current smokeless tobacco use,Lower CL,County,Skamania,2012,NA,NA,NA,NA
+Washington,Skamania County,53059,2012,Current smokeless tobacco use,Percent,County,Skamania,2012,NA,NA,NA,NA
+Washington,Skamania County,53059,2013,Current smokeless tobacco use,RSE,County,Skamania,2013,NA,NA,NA,100.6
+Washington,Skamania County,53059,2013,Current smokeless tobacco use,Upper CL,County,Skamania,2013,NA,NA,NA,NA
+Washington,Skamania County,53059,2013,Current smokeless tobacco use,Lower CL,County,Skamania,2013,NA,NA,NA,NA
+Washington,Skamania County,53059,2013,Current smokeless tobacco use,Percent,County,Skamania,2013,NA,NA,NA,NA
+Washington,Skamania County,53059,2014,Current smokeless tobacco use,RSE,County,Skamania,2014,NA,NA,NA,94.1
+Washington,Skamania County,53059,2014,Current smokeless tobacco use,Upper CL,County,Skamania,2014,NA,NA,NA,NA
+Washington,Skamania County,53059,2014,Current smokeless tobacco use,Lower CL,County,Skamania,2014,NA,NA,NA,NA
+Washington,Skamania County,53059,2014,Current smokeless tobacco use,Percent,County,Skamania,2014,NA,NA,NA,NA
+Washington,Snohomish County,53061,2011,Current smokeless tobacco use,RSE,County,Snohomish,2011,NA,NA,NA,39.7
+Washington,Snohomish County,53061,2011,Current smokeless tobacco use,Upper CL,County,Snohomish,2011,NA,NA,NA,NA
+Washington,Snohomish County,53061,2011,Current smokeless tobacco use,Lower CL,County,Snohomish,2011,NA,NA,NA,NA
+Washington,Snohomish County,53061,2011,Current smokeless tobacco use,Percent,County,Snohomish,2011,NA,NA,NA,NA
+Washington,Snohomish County,53061,2012,Current smokeless tobacco use,RSE,County,Snohomish,2012,1.9,3.2,4.5,20.6
+Washington,Snohomish County,53061,2012,Current smokeless tobacco use,Upper CL,County,Snohomish,2012,1.9,3.2,4.5,4.5
+Washington,Snohomish County,53061,2012,Current smokeless tobacco use,Lower CL,County,Snohomish,2012,1.9,3.2,4.5,1.9
+Washington,Snohomish County,53061,2012,Current smokeless tobacco use,Percent,County,Snohomish,2012,1.9,3.2,4.5,3.2
+Washington,Snohomish County,53061,2013,Current smokeless tobacco use,RSE,County,Snohomish,2013,1.7,3.2,4.7,23.2
+Washington,Snohomish County,53061,2013,Current smokeless tobacco use,Upper CL,County,Snohomish,2013,1.7,3.2,4.7,4.7
+Washington,Snohomish County,53061,2013,Current smokeless tobacco use,Lower CL,County,Snohomish,2013,1.7,3.2,4.7,1.7
+Washington,Snohomish County,53061,2013,Current smokeless tobacco use,Percent,County,Snohomish,2013,1.7,3.2,4.7,3.2
+Washington,Snohomish County,53061,2014,Current smokeless tobacco use,RSE,County,Snohomish,2014,NA,NA,NA,30.8
+Washington,Snohomish County,53061,2014,Current smokeless tobacco use,Upper CL,County,Snohomish,2014,NA,NA,NA,NA
+Washington,Snohomish County,53061,2014,Current smokeless tobacco use,Lower CL,County,Snohomish,2014,NA,NA,NA,NA
+Washington,Snohomish County,53061,2014,Current smokeless tobacco use,Percent,County,Snohomish,2014,NA,NA,NA,NA
+Washington,Spokane County,53063,2011,Current smokeless tobacco use,RSE,County,Spokane,2011,3.5,7,10.4,25.2
+Washington,Spokane County,53063,2011,Current smokeless tobacco use,Upper CL,County,Spokane,2011,3.5,7,10.4,10.4
+Washington,Spokane County,53063,2011,Current smokeless tobacco use,Lower CL,County,Spokane,2011,3.5,7,10.4,3.5
+Washington,Spokane County,53063,2011,Current smokeless tobacco use,Percent,County,Spokane,2011,3.5,7,10.4,7
+Washington,Spokane County,53063,2012,Current smokeless tobacco use,RSE,County,Spokane,2012,2.9,4.7,6.6,19.8
+Washington,Spokane County,53063,2012,Current smokeless tobacco use,Upper CL,County,Spokane,2012,2.9,4.7,6.6,6.6
+Washington,Spokane County,53063,2012,Current smokeless tobacco use,Lower CL,County,Spokane,2012,2.9,4.7,6.6,2.9
+Washington,Spokane County,53063,2012,Current smokeless tobacco use,Percent,County,Spokane,2012,2.9,4.7,6.6,4.7
+Washington,Spokane County,53063,2013,Current smokeless tobacco use,RSE,County,Spokane,2013,2.2,4.4,6.5,25.2
+Washington,Spokane County,53063,2013,Current smokeless tobacco use,Upper CL,County,Spokane,2013,2.2,4.4,6.5,6.5
+Washington,Spokane County,53063,2013,Current smokeless tobacco use,Lower CL,County,Spokane,2013,2.2,4.4,6.5,2.2
+Washington,Spokane County,53063,2013,Current smokeless tobacco use,Percent,County,Spokane,2013,2.2,4.4,6.5,4.4
+Washington,Spokane County,53063,2014,Current smokeless tobacco use,RSE,County,Spokane,2014,3.2,6.7,10.2,26.6
+Washington,Spokane County,53063,2014,Current smokeless tobacco use,Upper CL,County,Spokane,2014,3.2,6.7,10.2,10.2
+Washington,Spokane County,53063,2014,Current smokeless tobacco use,Lower CL,County,Spokane,2014,3.2,6.7,10.2,3.2
+Washington,Spokane County,53063,2014,Current smokeless tobacco use,Percent,County,Spokane,2014,3.2,6.7,10.2,6.7
+Washington,Stevens County,53065,2011,Current smokeless tobacco use,RSE,County,Stevens,2011,NA,NA,NA,41.9
+Washington,Stevens County,53065,2011,Current smokeless tobacco use,Upper CL,County,Stevens,2011,NA,NA,NA,NA
+Washington,Stevens County,53065,2011,Current smokeless tobacco use,Lower CL,County,Stevens,2011,NA,NA,NA,NA
+Washington,Stevens County,53065,2011,Current smokeless tobacco use,Percent,County,Stevens,2011,NA,NA,NA,NA
+Washington,Stevens County,53065,2012,Current smokeless tobacco use,RSE,County,Stevens,2012,NA,NA,NA,84.6
+Washington,Stevens County,53065,2012,Current smokeless tobacco use,Upper CL,County,Stevens,2012,NA,NA,NA,NA
+Washington,Stevens County,53065,2012,Current smokeless tobacco use,Lower CL,County,Stevens,2012,NA,NA,NA,NA
+Washington,Stevens County,53065,2012,Current smokeless tobacco use,Percent,County,Stevens,2012,NA,NA,NA,NA
+Washington,Stevens County,53065,2013,Current smokeless tobacco use,RSE,County,Stevens,2013,NA,NA,NA,68.8
+Washington,Stevens County,53065,2013,Current smokeless tobacco use,Upper CL,County,Stevens,2013,NA,NA,NA,NA
+Washington,Stevens County,53065,2013,Current smokeless tobacco use,Lower CL,County,Stevens,2013,NA,NA,NA,NA
+Washington,Stevens County,53065,2013,Current smokeless tobacco use,Percent,County,Stevens,2013,NA,NA,NA,NA
+Washington,Stevens County,53065,2014,Current smokeless tobacco use,RSE,County,Stevens,2014,NA,NA,NA,NA
+Washington,Stevens County,53065,2014,Current smokeless tobacco use,Upper CL,County,Stevens,2014,NA,NA,NA,NA
+Washington,Stevens County,53065,2014,Current smokeless tobacco use,Lower CL,County,Stevens,2014,NA,NA,NA,NA
+Washington,Stevens County,53065,2014,Current smokeless tobacco use,Percent,County,Stevens,2014,NA,NA,NA,NA
+Washington,Thurston County,53067,2011,Current smokeless tobacco use,RSE,County,Thurston,2011,NA,NA,NA,49.7
+Washington,Thurston County,53067,2011,Current smokeless tobacco use,Upper CL,County,Thurston,2011,NA,NA,NA,NA
+Washington,Thurston County,53067,2011,Current smokeless tobacco use,Lower CL,County,Thurston,2011,NA,NA,NA,NA
+Washington,Thurston County,53067,2011,Current smokeless tobacco use,Percent,County,Thurston,2011,NA,NA,NA,NA
+Washington,Thurston County,53067,2012,Current smokeless tobacco use,RSE,County,Thurston,2012,NA,NA,NA,32.1
+Washington,Thurston County,53067,2012,Current smokeless tobacco use,Upper CL,County,Thurston,2012,NA,NA,NA,NA
+Washington,Thurston County,53067,2012,Current smokeless tobacco use,Lower CL,County,Thurston,2012,NA,NA,NA,NA
+Washington,Thurston County,53067,2012,Current smokeless tobacco use,Percent,County,Thurston,2012,NA,NA,NA,NA
+Washington,Thurston County,53067,2013,Current smokeless tobacco use,RSE,County,Thurston,2013,NA,NA,NA,41.7
+Washington,Thurston County,53067,2013,Current smokeless tobacco use,Upper CL,County,Thurston,2013,NA,NA,NA,NA
+Washington,Thurston County,53067,2013,Current smokeless tobacco use,Lower CL,County,Thurston,2013,NA,NA,NA,NA
+Washington,Thurston County,53067,2013,Current smokeless tobacco use,Percent,County,Thurston,2013,NA,NA,NA,NA
+Washington,Thurston County,53067,2014,Current smokeless tobacco use,RSE,County,Thurston,2014,NA,NA,NA,41.2
+Washington,Thurston County,53067,2014,Current smokeless tobacco use,Upper CL,County,Thurston,2014,NA,NA,NA,NA
+Washington,Thurston County,53067,2014,Current smokeless tobacco use,Lower CL,County,Thurston,2014,NA,NA,NA,NA
+Washington,Thurston County,53067,2014,Current smokeless tobacco use,Percent,County,Thurston,2014,NA,NA,NA,NA
+Washington,Wahkiakum County,53069,2011,Current smokeless tobacco use,RSE,County,Wahkiakum,2011,3.5,7.2,10.9,26.4
+Washington,Wahkiakum County,53069,2011,Current smokeless tobacco use,Upper CL,County,Wahkiakum,2011,3.5,7.2,10.9,10.9
+Washington,Wahkiakum County,53069,2011,Current smokeless tobacco use,Lower CL,County,Wahkiakum,2011,3.5,7.2,10.9,3.5
+Washington,Wahkiakum County,53069,2011,Current smokeless tobacco use,Percent,County,Wahkiakum,2011,3.5,7.2,10.9,7.2
+Washington,Wahkiakum County,53069,2012,Current smokeless tobacco use,RSE,County,Wahkiakum,2012,NA,NA,NA,53.2
+Washington,Wahkiakum County,53069,2012,Current smokeless tobacco use,Upper CL,County,Wahkiakum,2012,NA,NA,NA,NA
+Washington,Wahkiakum County,53069,2012,Current smokeless tobacco use,Lower CL,County,Wahkiakum,2012,NA,NA,NA,NA
+Washington,Wahkiakum County,53069,2012,Current smokeless tobacco use,Percent,County,Wahkiakum,2012,NA,NA,NA,NA
+Washington,Wahkiakum County,53069,2013,Current smokeless tobacco use,RSE,County,Wahkiakum,2013,NA,NA,NA,102.7
+Washington,Wahkiakum County,53069,2013,Current smokeless tobacco use,Upper CL,County,Wahkiakum,2013,NA,NA,NA,NA
+Washington,Wahkiakum County,53069,2013,Current smokeless tobacco use,Lower CL,County,Wahkiakum,2013,NA,NA,NA,NA
+Washington,Wahkiakum County,53069,2013,Current smokeless tobacco use,Percent,County,Wahkiakum,2013,NA,NA,NA,NA
+Washington,Wahkiakum County,53069,2014,Current smokeless tobacco use,RSE,County,Wahkiakum,2014,NA,NA,NA,65.7
+Washington,Wahkiakum County,53069,2014,Current smokeless tobacco use,Upper CL,County,Wahkiakum,2014,NA,NA,NA,NA
+Washington,Wahkiakum County,53069,2014,Current smokeless tobacco use,Lower CL,County,Wahkiakum,2014,NA,NA,NA,NA
+Washington,Wahkiakum County,53069,2014,Current smokeless tobacco use,Percent,County,Wahkiakum,2014,NA,NA,NA,NA
+Washington,Walla Walla County,53071,2011,Current smokeless tobacco use,RSE,County,Walla Walla,2011,NA,NA,NA,57.3
+Washington,Walla Walla County,53071,2011,Current smokeless tobacco use,Upper CL,County,Walla Walla,2011,NA,NA,NA,NA
+Washington,Walla Walla County,53071,2011,Current smokeless tobacco use,Lower CL,County,Walla Walla,2011,NA,NA,NA,NA
+Washington,Walla Walla County,53071,2011,Current smokeless tobacco use,Percent,County,Walla Walla,2011,NA,NA,NA,NA
+Washington,Walla Walla County,53071,2012,Current smokeless tobacco use,RSE,County,Walla Walla,2012,NA,NA,NA,41.8
+Washington,Walla Walla County,53071,2012,Current smokeless tobacco use,Upper CL,County,Walla Walla,2012,NA,NA,NA,NA
+Washington,Walla Walla County,53071,2012,Current smokeless tobacco use,Lower CL,County,Walla Walla,2012,NA,NA,NA,NA
+Washington,Walla Walla County,53071,2012,Current smokeless tobacco use,Percent,County,Walla Walla,2012,NA,NA,NA,NA
+Washington,Walla Walla County,53071,2013,Current smokeless tobacco use,RSE,County,Walla Walla,2013,NA,NA,NA,100.1
+Washington,Walla Walla County,53071,2013,Current smokeless tobacco use,Upper CL,County,Walla Walla,2013,NA,NA,NA,NA
+Washington,Walla Walla County,53071,2013,Current smokeless tobacco use,Lower CL,County,Walla Walla,2013,NA,NA,NA,NA
+Washington,Walla Walla County,53071,2013,Current smokeless tobacco use,Percent,County,Walla Walla,2013,NA,NA,NA,NA
+Washington,Walla Walla County,53071,2014,Current smokeless tobacco use,RSE,County,Walla Walla,2014,NA,NA,NA,85.3
+Washington,Walla Walla County,53071,2014,Current smokeless tobacco use,Upper CL,County,Walla Walla,2014,NA,NA,NA,NA
+Washington,Walla Walla County,53071,2014,Current smokeless tobacco use,Lower CL,County,Walla Walla,2014,NA,NA,NA,NA
+Washington,Walla Walla County,53071,2014,Current smokeless tobacco use,Percent,County,Walla Walla,2014,NA,NA,NA,NA
+Washington,Whatcom County,53073,2011,Current smokeless tobacco use,RSE,County,Whatcom,2011,NA,NA,NA,58.7
+Washington,Whatcom County,53073,2011,Current smokeless tobacco use,Upper CL,County,Whatcom,2011,NA,NA,NA,NA
+Washington,Whatcom County,53073,2011,Current smokeless tobacco use,Lower CL,County,Whatcom,2011,NA,NA,NA,NA
+Washington,Whatcom County,53073,2011,Current smokeless tobacco use,Percent,County,Whatcom,2011,NA,NA,NA,NA
+Washington,Whatcom County,53073,2012,Current smokeless tobacco use,RSE,County,Whatcom,2012,1.8,3.8,5.7,26
+Washington,Whatcom County,53073,2012,Current smokeless tobacco use,Upper CL,County,Whatcom,2012,1.8,3.8,5.7,5.7
+Washington,Whatcom County,53073,2012,Current smokeless tobacco use,Lower CL,County,Whatcom,2012,1.8,3.8,5.7,1.8
+Washington,Whatcom County,53073,2012,Current smokeless tobacco use,Percent,County,Whatcom,2012,1.8,3.8,5.7,3.8
+Washington,Whatcom County,53073,2013,Current smokeless tobacco use,RSE,County,Whatcom,2013,NA,NA,NA,66.6
+Washington,Whatcom County,53073,2013,Current smokeless tobacco use,Upper CL,County,Whatcom,2013,NA,NA,NA,NA
+Washington,Whatcom County,53073,2013,Current smokeless tobacco use,Lower CL,County,Whatcom,2013,NA,NA,NA,NA
+Washington,Whatcom County,53073,2013,Current smokeless tobacco use,Percent,County,Whatcom,2013,NA,NA,NA,NA
+Washington,Whatcom County,53073,2014,Current smokeless tobacco use,RSE,County,Whatcom,2014,NA,NA,NA,58
+Washington,Whatcom County,53073,2014,Current smokeless tobacco use,Upper CL,County,Whatcom,2014,NA,NA,NA,NA
+Washington,Whatcom County,53073,2014,Current smokeless tobacco use,Lower CL,County,Whatcom,2014,NA,NA,NA,NA
+Washington,Whatcom County,53073,2014,Current smokeless tobacco use,Percent,County,Whatcom,2014,NA,NA,NA,NA
+Washington,Whitman County,53075,2011,Current smokeless tobacco use,RSE,County,Whitman,2011,NA,NA,NA,47.3
+Washington,Whitman County,53075,2011,Current smokeless tobacco use,Upper CL,County,Whitman,2011,NA,NA,NA,NA
+Washington,Whitman County,53075,2011,Current smokeless tobacco use,Lower CL,County,Whitman,2011,NA,NA,NA,NA
+Washington,Whitman County,53075,2011,Current smokeless tobacco use,Percent,County,Whitman,2011,NA,NA,NA,NA
+Washington,Whitman County,53075,2012,Current smokeless tobacco use,RSE,County,Whitman,2012,NA,NA,NA,46.7
+Washington,Whitman County,53075,2012,Current smokeless tobacco use,Upper CL,County,Whitman,2012,NA,NA,NA,NA
+Washington,Whitman County,53075,2012,Current smokeless tobacco use,Lower CL,County,Whitman,2012,NA,NA,NA,NA
+Washington,Whitman County,53075,2012,Current smokeless tobacco use,Percent,County,Whitman,2012,NA,NA,NA,NA
+Washington,Whitman County,53075,2013,Current smokeless tobacco use,RSE,County,Whitman,2013,NA,NA,NA,69.6
+Washington,Whitman County,53075,2013,Current smokeless tobacco use,Upper CL,County,Whitman,2013,NA,NA,NA,NA
+Washington,Whitman County,53075,2013,Current smokeless tobacco use,Lower CL,County,Whitman,2013,NA,NA,NA,NA
+Washington,Whitman County,53075,2013,Current smokeless tobacco use,Percent,County,Whitman,2013,NA,NA,NA,NA
+Washington,Whitman County,53075,2014,Current smokeless tobacco use,RSE,County,Whitman,2014,NA,NA,NA,50.3
+Washington,Whitman County,53075,2014,Current smokeless tobacco use,Upper CL,County,Whitman,2014,NA,NA,NA,NA
+Washington,Whitman County,53075,2014,Current smokeless tobacco use,Lower CL,County,Whitman,2014,NA,NA,NA,NA
+Washington,Whitman County,53075,2014,Current smokeless tobacco use,Percent,County,Whitman,2014,NA,NA,NA,NA
+Washington,Yakima County,53077,2011,Current smokeless tobacco use,RSE,County,Yakima,2011,NA,NA,NA,38.8
+Washington,Yakima County,53077,2011,Current smokeless tobacco use,Upper CL,County,Yakima,2011,NA,NA,NA,NA
+Washington,Yakima County,53077,2011,Current smokeless tobacco use,Lower CL,County,Yakima,2011,NA,NA,NA,NA
+Washington,Yakima County,53077,2011,Current smokeless tobacco use,Percent,County,Yakima,2011,NA,NA,NA,NA
+Washington,Yakima County,53077,2012,Current smokeless tobacco use,RSE,County,Yakima,2012,3,5.9,8.8,25.1
+Washington,Yakima County,53077,2012,Current smokeless tobacco use,Upper CL,County,Yakima,2012,3,5.9,8.8,8.8
+Washington,Yakima County,53077,2012,Current smokeless tobacco use,Lower CL,County,Yakima,2012,3,5.9,8.8,3
+Washington,Yakima County,53077,2012,Current smokeless tobacco use,Percent,County,Yakima,2012,3,5.9,8.8,5.9
+Washington,Yakima County,53077,2013,Current smokeless tobacco use,RSE,County,Yakima,2013,NA,NA,NA,42.2
+Washington,Yakima County,53077,2013,Current smokeless tobacco use,Upper CL,County,Yakima,2013,NA,NA,NA,NA
+Washington,Yakima County,53077,2013,Current smokeless tobacco use,Lower CL,County,Yakima,2013,NA,NA,NA,NA
+Washington,Yakima County,53077,2013,Current smokeless tobacco use,Percent,County,Yakima,2013,NA,NA,NA,NA
+Washington,Yakima County,53077,2014,Current smokeless tobacco use,RSE,County,Yakima,2014,NA,NA,NA,39.4
+Washington,Yakima County,53077,2014,Current smokeless tobacco use,Upper CL,County,Yakima,2014,NA,NA,NA,NA
+Washington,Yakima County,53077,2014,Current smokeless tobacco use,Lower CL,County,Yakima,2014,NA,NA,NA,NA
+Washington,Yakima County,53077,2014,Current smokeless tobacco use,Percent,County,Yakima,2014,NA,NA,NA,NA
