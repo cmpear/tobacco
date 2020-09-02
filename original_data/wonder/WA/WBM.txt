@@ -1,0 +1,438 @@
+"Notes"	"County"	"County Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Year"	"Year Code"	"ICD Chapter"	"ICD Chapter Code"	Deaths	Population	Crude Rate
+	"King County, WA"	"53033"	"< 1 year"	"1"	"2003"	"2003"	"Certain conditions originating in the perinatal period"	"P00-P96"	10	1141	Unreliable
+	"King County, WA"	"53033"	"< 1 year"	"1"	"2008"	"2008"	"Certain conditions originating in the perinatal period"	"P00-P96"	14	1546	Unreliable
+	"King County, WA"	"53033"	"< 1 year"	"1"	"2011"	"2011"	"Certain conditions originating in the perinatal period"	"P00-P96"	11	1370	Unreliable
+	"King County, WA"	"53033"	"< 1 year"	"1"	"2015"	"2015"	"Certain conditions originating in the perinatal period"	"P00-P96"	10	1349	Unreliable
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"1999"	"1999"	"External causes of morbidity and mortality"	"V01-Y89"	20	8004	249.9
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2002"	"2002"	"External causes of morbidity and mortality"	"V01-Y89"	13	9120	Unreliable
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2004"	"2004"	"External causes of morbidity and mortality"	"V01-Y89"	19	9518	Unreliable
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2006"	"2006"	"External causes of morbidity and mortality"	"V01-Y89"	19	10346	Unreliable
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2008"	"2008"	"External causes of morbidity and mortality"	"V01-Y89"	21	11092	189.3
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2009"	"2009"	"External causes of morbidity and mortality"	"V01-Y89"	10	11487	Unreliable
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2010"	"2010"	"External causes of morbidity and mortality"	"V01-Y89"	14	11384	Unreliable
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2012"	"2012"	"External causes of morbidity and mortality"	"V01-Y89"	10	12402	Unreliable
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2013"	"2013"	"External causes of morbidity and mortality"	"V01-Y89"	15	12785	Unreliable
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2014"	"2014"	"External causes of morbidity and mortality"	"V01-Y89"	14	13092	Unreliable
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	16	12938	Unreliable
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	20	12925	154.7
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2017"	"2017"	"External causes of morbidity and mortality"	"V01-Y89"	24	12813	187.3
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	13	12892	Unreliable
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"1999"	"1999"	"External causes of morbidity and mortality"	"V01-Y89"	10	9294	Unreliable
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2000"	"2000"	"External causes of morbidity and mortality"	"V01-Y89"	12	9425	Unreliable
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2002"	"2002"	"External causes of morbidity and mortality"	"V01-Y89"	14	9393	Unreliable
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2003"	"2003"	"External causes of morbidity and mortality"	"V01-Y89"	13	9336	Unreliable
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2004"	"2004"	"External causes of morbidity and mortality"	"V01-Y89"	13	9153	Unreliable
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2005"	"2005"	"External causes of morbidity and mortality"	"V01-Y89"	22	9099	241.8
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2007"	"2007"	"External causes of morbidity and mortality"	"V01-Y89"	14	9638	Unreliable
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2008"	"2008"	"External causes of morbidity and mortality"	"V01-Y89"	11	10509	Unreliable
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2009"	"2009"	"External causes of morbidity and mortality"	"V01-Y89"	11	11221	Unreliable
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2010"	"2010"	"External causes of morbidity and mortality"	"V01-Y89"	10	11457	Unreliable
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2012"	"2012"	"External causes of morbidity and mortality"	"V01-Y89"	13	13116	Unreliable
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2013"	"2013"	"External causes of morbidity and mortality"	"V01-Y89"	13	13437	Unreliable
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2014"	"2014"	"External causes of morbidity and mortality"	"V01-Y89"	16	14197	Unreliable
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	12	14957	Unreliable
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	17	15067	Unreliable
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2017"	"2017"	"External causes of morbidity and mortality"	"V01-Y89"	15	16023	Unreliable
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	22	17159	128.2
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2000"	"2000"	"External causes of morbidity and mortality"	"V01-Y89"	14	10036	Unreliable
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2001"	"2001"	"External causes of morbidity and mortality"	"V01-Y89"	12	10165	Unreliable
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	10	10004	Unreliable
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2004"	"2004"	"External causes of morbidity and mortality"	"V01-Y89"	13	9984	Unreliable
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2005"	"2005"	"External causes of morbidity and mortality"	"V01-Y89"	14	10096	Unreliable
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2006"	"2006"	"External causes of morbidity and mortality"	"V01-Y89"	11	10229	Unreliable
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2007"	"2007"	"External causes of morbidity and mortality"	"V01-Y89"	13	10378	Unreliable
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2008"	"2008"	"External causes of morbidity and mortality"	"V01-Y89"	10	10402	Unreliable
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2009"	"2009"	"External causes of morbidity and mortality"	"V01-Y89"	13	10727	Unreliable
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2011"	"2011"	"External causes of morbidity and mortality"	"V01-Y89"	11	10756	Unreliable
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2013"	"2013"	"External causes of morbidity and mortality"	"V01-Y89"	13	11236	Unreliable
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	11	11969	Unreliable
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	11	12295	Unreliable
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2017"	"2017"	"External causes of morbidity and mortality"	"V01-Y89"	10	12971	Unreliable
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	10	13669	Unreliable
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	16	13669	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"1999"	"1999"	"Neoplasms"	"C00-D48"	12	6460	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	16	6460	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"1999"	"1999"	"External causes of morbidity and mortality"	"V01-Y89"	14	6460	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	16	6793	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2000"	"2000"	"External causes of morbidity and mortality"	"V01-Y89"	11	6793	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2001"	"2001"	"Neoplasms"	"C00-D48"	10	7274	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	14	7274	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2002"	"2002"	"Neoplasms"	"C00-D48"	11	7581	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	23	7581	303.4
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2002"	"2002"	"External causes of morbidity and mortality"	"V01-Y89"	14	7581	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2003"	"2003"	"Neoplasms"	"C00-D48"	17	7947	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	23	7947	289.4
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	16	8242	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2004"	"2004"	"External causes of morbidity and mortality"	"V01-Y89"	10	8242	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2005"	"2005"	"Neoplasms"	"C00-D48"	14	8593	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	12	8593	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2005"	"2005"	"External causes of morbidity and mortality"	"V01-Y89"	14	8593	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2006"	"2006"	"Neoplasms"	"C00-D48"	15	8784	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	16	8784	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2006"	"2006"	"External causes of morbidity and mortality"	"V01-Y89"	17	8784	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2007"	"2007"	"Neoplasms"	"C00-D48"	13	9124	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	14	9124	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2007"	"2007"	"External causes of morbidity and mortality"	"V01-Y89"	13	9124	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2008"	"2008"	"Neoplasms"	"C00-D48"	14	9494	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	17	9494	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2008"	"2008"	"External causes of morbidity and mortality"	"V01-Y89"	10	9494	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2009"	"2009"	"Neoplasms"	"C00-D48"	10	9957	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	30	9957	301.3
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2009"	"2009"	"External causes of morbidity and mortality"	"V01-Y89"	13	9957	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2010"	"2010"	"Neoplasms"	"C00-D48"	10	10239	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	14	10239	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2010"	"2010"	"External causes of morbidity and mortality"	"V01-Y89"	13	10239	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2011"	"2011"	"Neoplasms"	"C00-D48"	14	10258	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	10	10258	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2012"	"2012"	"Neoplasms"	"C00-D48"	17	10245	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2013"	"2013"	"External causes of morbidity and mortality"	"V01-Y89"	12	10413	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2014"	"2014"	"Neoplasms"	"C00-D48"	16	10554	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	16	10554	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2014"	"2014"	"External causes of morbidity and mortality"	"V01-Y89"	10	10554	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2015"	"2015"	"Neoplasms"	"C00-D48"	14	10524	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	10	10524	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	10	10524	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2016"	"2016"	"Neoplasms"	"C00-D48"	11	10675	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	16	10675	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	11	10675	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2017"	"2017"	"Neoplasms"	"C00-D48"	11	10754	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2017"	"2017"	"External causes of morbidity and mortality"	"V01-Y89"	15	10754	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	12	11009	Unreliable
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	13	11009	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"1999"	"1999"	"Neoplasms"	"C00-D48"	25	3074	813.3
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	15	3074	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	24	3221	745.1
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2001"	"2001"	"Neoplasms"	"C00-D48"	14	3427	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	23	3427	671.1
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2002"	"2002"	"Neoplasms"	"C00-D48"	20	3695	541.3
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	16	3695	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2003"	"2003"	"Neoplasms"	"C00-D48"	14	3899	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	26	3899	666.8
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2004"	"2004"	"Neoplasms"	"C00-D48"	23	4264	539.4
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	21	4264	492.5
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2005"	"2005"	"Neoplasms"	"C00-D48"	16	4560	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	28	4560	614.0
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2006"	"2006"	"Neoplasms"	"C00-D48"	24	4939	485.9
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	26	4939	526.4
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2007"	"2007"	"Neoplasms"	"C00-D48"	28	5230	535.4
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	25	5230	478.0
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2008"	"2008"	"Neoplasms"	"C00-D48"	26	5525	470.6
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	31	5525	561.1
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2009"	"2009"	"Neoplasms"	"C00-D48"	15	5962	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	37	5962	620.6
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2010"	"2010"	"Neoplasms"	"C00-D48"	26	6365	408.5
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	19	6365	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2011"	"2011"	"Neoplasms"	"C00-D48"	33	6788	486.2
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	29	6788	427.2
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2011"	"2011"	"External causes of morbidity and mortality"	"V01-Y89"	11	6788	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2012"	"2012"	"Neoplasms"	"C00-D48"	29	7156	405.3
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	24	7156	335.4
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2012"	"2012"	"External causes of morbidity and mortality"	"V01-Y89"	10	7156	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2013"	"2013"	"Neoplasms"	"C00-D48"	35	7443	470.2
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	33	7443	443.4
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2013"	"2013"	"External causes of morbidity and mortality"	"V01-Y89"	16	7443	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2014"	"2014"	"Certain infectious and parasitic diseases"	"A00-B99"	10	7696	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2014"	"2014"	"Neoplasms"	"C00-D48"	23	7696	298.9
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	28	7696	363.8
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2014"	"2014"	"External causes of morbidity and mortality"	"V01-Y89"	14	7696	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2015"	"2015"	"Neoplasms"	"C00-D48"	26	7981	325.8
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	33	7981	413.5
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	11	7981	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2016"	"2016"	"Neoplasms"	"C00-D48"	29	8305	349.2
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	26	8305	313.1
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	18	8305	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2017"	"2017"	"Certain infectious and parasitic diseases"	"A00-B99"	10	8613	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2017"	"2017"	"Neoplasms"	"C00-D48"	24	8613	278.6
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	36	8613	418.0
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2017"	"2017"	"External causes of morbidity and mortality"	"V01-Y89"	15	8613	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2018"	"2018"	"Neoplasms"	"C00-D48"	19	8820	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2018"	"2018"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	11	8820	Unreliable
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	26	8820	294.8
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	18	8820	Unreliable
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"1999"	"1999"	"Neoplasms"	"C00-D48"	22	1632	1348.0
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	23	1632	1409.3
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2000"	"2000"	"Neoplasms"	"C00-D48"	23	1629	1411.9
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	21	1629	1289.1
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2001"	"2001"	"Neoplasms"	"C00-D48"	28	1680	1666.7
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	17	1680	Unreliable
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2002"	"2002"	"Neoplasms"	"C00-D48"	23	1736	1324.9
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	24	1736	1382.5
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2003"	"2003"	"Neoplasms"	"C00-D48"	15	1797	Unreliable
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	31	1797	1725.1
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2004"	"2004"	"Neoplasms"	"C00-D48"	21	1856	1131.5
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	15	1856	Unreliable
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2005"	"2005"	"Neoplasms"	"C00-D48"	26	1969	1320.5
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	16	1969	Unreliable
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2006"	"2006"	"Neoplasms"	"C00-D48"	26	2092	1242.8
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	21	2092	1003.8
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2007"	"2007"	"Neoplasms"	"C00-D48"	24	2168	1107.0
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	22	2168	1014.8
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2008"	"2008"	"Neoplasms"	"C00-D48"	22	2328	945.0
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2008"	"2008"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	10	2328	Unreliable
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	14	2328	Unreliable
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2009"	"2009"	"Neoplasms"	"C00-D48"	29	2422	1197.4
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	15	2422	Unreliable
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2010"	"2010"	"Neoplasms"	"C00-D48"	28	2550	1098.0
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	17	2550	Unreliable
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2011"	"2011"	"Neoplasms"	"C00-D48"	27	2745	983.6
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	30	2745	1092.9
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2012"	"2012"	"Neoplasms"	"C00-D48"	38	2997	1267.9
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	16	2997	Unreliable
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2013"	"2013"	"Neoplasms"	"C00-D48"	28	3282	853.1
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	22	3282	670.3
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2014"	"2014"	"Neoplasms"	"C00-D48"	23	3457	665.3
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	28	3457	810.0
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2015"	"2015"	"Neoplasms"	"C00-D48"	27	3669	735.9
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2015"	"2015"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	14	3669	Unreliable
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	27	3669	735.9
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2016"	"2016"	"Neoplasms"	"C00-D48"	29	3867	749.9
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	43	3867	1112.0
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2017"	"2017"	"Neoplasms"	"C00-D48"	26	4023	646.3
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2017"	"2017"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	12	4023	Unreliable
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	39	4023	969.4
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2017"	"2017"	"Diseases of the respiratory system"	"J00-J98"	11	4023	Unreliable
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2018"	"2018"	"Neoplasms"	"C00-D48"	28	4309	649.8
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2018"	"2018"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	10	4309	Unreliable
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	40	4309	928.3
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2018"	"2018"	"Diseases of the respiratory system"	"J00-J98"	11	4309	Unreliable
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"2018"	"2018"	"Diseases of the digestive system"	"K00-K92"	10	4309	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"1999"	"1999"	"Neoplasms"	"C00-D48"	22	874	2517.2
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	23	874	2631.6
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2000"	"2000"	"Neoplasms"	"C00-D48"	15	891	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	29	891	3254.8
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2001"	"2001"	"Neoplasms"	"C00-D48"	28	907	3087.1
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	34	907	3748.6
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2002"	"2002"	"Neoplasms"	"C00-D48"	19	870	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2002"	"2002"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	10	870	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	17	870	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2003"	"2003"	"Neoplasms"	"C00-D48"	18	906	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	28	906	3090.5
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2004"	"2004"	"Neoplasms"	"C00-D48"	14	915	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	21	915	2295.1
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2005"	"2005"	"Neoplasms"	"C00-D48"	19	927	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	30	927	3236.2
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2006"	"2006"	"Neoplasms"	"C00-D48"	11	913	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	17	913	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2007"	"2007"	"Neoplasms"	"C00-D48"	17	946	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	20	946	2114.2
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2008"	"2008"	"Neoplasms"	"C00-D48"	17	944	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	13	944	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2009"	"2009"	"Neoplasms"	"C00-D48"	15	1000	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	17	1000	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2010"	"2010"	"Neoplasms"	"C00-D48"	16	1025	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2010"	"2010"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	10	1025	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	21	1025	2048.8
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2011"	"2011"	"Neoplasms"	"C00-D48"	18	1068	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	14	1068	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2012"	"2012"	"Neoplasms"	"C00-D48"	18	1101	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	27	1101	2452.3
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2013"	"2013"	"Neoplasms"	"C00-D48"	20	1187	1684.9
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	17	1187	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2014"	"2014"	"Neoplasms"	"C00-D48"	24	1224	1960.8
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2014"	"2014"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	10	1224	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	22	1224	1797.4
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2015"	"2015"	"Neoplasms"	"C00-D48"	17	1273	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	16	1273	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2015"	"2015"	"Diseases of the respiratory system"	"J00-J98"	12	1273	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	22	1327	1657.9
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2017"	"2017"	"Neoplasms"	"C00-D48"	21	1370	1532.8
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	19	1370	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2017"	"2017"	"Diseases of the respiratory system"	"J00-J98"	10	1370	Unreliable
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2018"	"2018"	"Neoplasms"	"C00-D48"	21	1502	1398.1
+	"King County, WA"	"53033"	"75-84 years"	"75-84"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	33	1502	2197.1
+	"King County, WA"	"53033"	"85+ years"	"85+"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	12	201	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	15	194	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	13	188	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	12	194	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	20	194	10309.3
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2004"	"2004"	"Neoplasms"	"C00-D48"	10	209	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	12	209	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2005"	"2005"	"Neoplasms"	"C00-D48"	11	226	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	11	226	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2006"	"2006"	"Neoplasms"	"C00-D48"	10	245	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2008"	"2008"	"Neoplasms"	"C00-D48"	12	266	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	16	266	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	16	310	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	16	314	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2011"	"2011"	"Neoplasms"	"C00-D48"	16	326	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	19	326	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2012"	"2012"	"Neoplasms"	"C00-D48"	11	356	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	16	356	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2013"	"2013"	"Neoplasms"	"C00-D48"	11	366	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2013"	"2013"	"Diseases of the nervous system"	"G00-G98"	11	366	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	19	366	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2014"	"2014"	"Neoplasms"	"C00-D48"	10	378	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	22	378	5820.1
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	19	369	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2016"	"2016"	"Neoplasms"	"C00-D48"	10	362	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	22	362	6077.3
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	10	381	Unreliable
+	"King County, WA"	"53033"	"85+ years"	"85+"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	16	406	Unreliable
+	"Pierce County, WA"	"53053"	"15-24 years"	"15-24"	"2003"	"2003"	"External causes of morbidity and mortality"	"V01-Y89"	10	6247	Unreliable
+	"Pierce County, WA"	"53053"	"15-24 years"	"15-24"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	10	7921	Unreliable
+	"Pierce County, WA"	"53053"	"15-24 years"	"15-24"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	12	7816	Unreliable
+	"Pierce County, WA"	"53053"	"25-34 years"	"25-34"	"2006"	"2006"	"External causes of morbidity and mortality"	"V01-Y89"	14	4830	Unreliable
+	"Pierce County, WA"	"53053"	"25-34 years"	"25-34"	"2012"	"2012"	"External causes of morbidity and mortality"	"V01-Y89"	11	6170	Unreliable
+	"Pierce County, WA"	"53053"	"25-34 years"	"25-34"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	10	7291	Unreliable
+	"Pierce County, WA"	"53053"	"25-34 years"	"25-34"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	12	7597	Unreliable
+	"Pierce County, WA"	"53053"	"25-34 years"	"25-34"	"2017"	"2017"	"External causes of morbidity and mortality"	"V01-Y89"	15	8095	Unreliable
+	"Pierce County, WA"	"53053"	"35-44 years"	"35-44"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	10	5551	Unreliable
+	"Pierce County, WA"	"53053"	"35-44 years"	"35-44"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	10	6040	Unreliable
+	"Pierce County, WA"	"53053"	"45-54 years"	"45-54"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	10	4607	Unreliable
+	"Pierce County, WA"	"53053"	"45-54 years"	"45-54"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	15	4840	Unreliable
+	"Pierce County, WA"	"53053"	"45-54 years"	"45-54"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	12	4941	Unreliable
+	"Pierce County, WA"	"53053"	"45-54 years"	"45-54"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	11	5075	Unreliable
+	"Pierce County, WA"	"53053"	"45-54 years"	"45-54"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	15	5091	Unreliable
+	"Pierce County, WA"	"53053"	"45-54 years"	"45-54"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	11	4967	Unreliable
+	"Pierce County, WA"	"53053"	"45-54 years"	"45-54"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	12	4861	Unreliable
+	"Pierce County, WA"	"53053"	"45-54 years"	"45-54"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	11	4795	Unreliable
+	"Pierce County, WA"	"53053"	"45-54 years"	"45-54"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	11	5003	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	13	1309	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	11	1423	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	10	1543	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2003"	"2003"	"Neoplasms"	"C00-D48"	12	1633	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	12	1633	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2004"	"2004"	"Neoplasms"	"C00-D48"	10	1810	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	13	1979	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	19	2104	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2007"	"2007"	"Neoplasms"	"C00-D48"	11	2229	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2008"	"2008"	"Neoplasms"	"C00-D48"	11	2442	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	14	2442	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	11	2627	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	13	2802	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2011"	"2011"	"Neoplasms"	"C00-D48"	11	3106	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	19	3106	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2012"	"2012"	"Neoplasms"	"C00-D48"	17	3326	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2013"	"2013"	"Neoplasms"	"C00-D48"	17	3628	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	21	3628	578.8
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2014"	"2014"	"Neoplasms"	"C00-D48"	11	3862	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	14	3862	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2015"	"2015"	"Neoplasms"	"C00-D48"	19	4040	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	20	4040	495.0
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2016"	"2016"	"Neoplasms"	"C00-D48"	13	4364	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	22	4364	504.1
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2017"	"2017"	"Neoplasms"	"C00-D48"	17	4422	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	28	4422	633.2
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2018"	"2018"	"Neoplasms"	"C00-D48"	12	4506	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	26	4506	577.0
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"1999"	"1999"	"Neoplasms"	"C00-D48"	11	807	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	10	807	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2000"	"2000"	"Neoplasms"	"C00-D48"	15	828	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	18	828	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2001"	"2001"	"Neoplasms"	"C00-D48"	10	875	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	12	875	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2002"	"2002"	"Neoplasms"	"C00-D48"	12	943	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	11	943	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2003"	"2003"	"Neoplasms"	"C00-D48"	15	910	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	11	910	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	11	926	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2006"	"2006"	"Neoplasms"	"C00-D48"	11	953	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2007"	"2007"	"Neoplasms"	"C00-D48"	14	988	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	20	988	2024.3
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	16	1010	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2009"	"2009"	"Neoplasms"	"C00-D48"	12	1090	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	12	1090	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2011"	"2011"	"Neoplasms"	"C00-D48"	12	1194	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	14	1194	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2012"	"2012"	"Neoplasms"	"C00-D48"	15	1296	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	11	1296	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2013"	"2013"	"Neoplasms"	"C00-D48"	16	1398	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	12	1398	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2014"	"2014"	"Neoplasms"	"C00-D48"	13	1485	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	18	1485	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2015"	"2015"	"Neoplasms"	"C00-D48"	19	1612	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	18	1612	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2016"	"2016"	"Neoplasms"	"C00-D48"	19	1750	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	14	1750	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2017"	"2017"	"Neoplasms"	"C00-D48"	13	1851	Unreliable
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	22	1851	1188.5
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2018"	"2018"	"Neoplasms"	"C00-D48"	24	2031	1181.7
+	"Pierce County, WA"	"53053"	"65-74 years"	"65-74"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	20	2031	984.7
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	12	308	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	10	308	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2003"	"2003"	"Neoplasms"	"C00-D48"	10	349	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	17	349	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	13	359	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2005"	"2005"	"Neoplasms"	"C00-D48"	11	412	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	13	412	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	12	455	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2008"	"2008"	"Neoplasms"	"C00-D48"	11	519	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	10	519	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2010"	"2010"	"Neoplasms"	"C00-D48"	10	525	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2012"	"2012"	"Neoplasms"	"C00-D48"	11	575	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2013"	"2013"	"Neoplasms"	"C00-D48"	15	553	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	11	553	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	14	593	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	12	603	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	15	657	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	16	647	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2018"	"2018"	"Neoplasms"	"C00-D48"	14	711	Unreliable
+	"Pierce County, WA"	"53053"	"75-84 years"	"75-84"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	14	711	Unreliable
+	"Pierce County, WA"	"53053"	"85+ years"	"85+"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	11	110	Unreliable
+	"Pierce County, WA"	"53053"	"85+ years"	"85+"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	15	188	Unreliable
+	"Pierce County, WA"	"53053"	"85+ years"	"85+"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	11	221	Unreliable
+	"Pierce County, WA"	"53053"	"85+ years"	"85+"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	12	216	Unreliable
+	"Pierce County, WA"	"53053"	"85+ years"	"85+"	"2018"	"2018"	"Neoplasms"	"C00-D48"	10	214	Unreliable
+	"Pierce County, WA"	"53053"	"85+ years"	"85+"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	10	214	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Gender: Male"
+"Race: Black or African American"
+"States: Washington (53)"
+"Group By: County; Ten-Year Age Groups; Year; ICD Chapter"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Sep 2, 2020 4:35:16 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Sep 2, 2020 4:35:16 PM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"5. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"7. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."

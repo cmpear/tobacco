@@ -1,0 +1,97 @@
+"Notes"	"County"	"County Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Year"	"Year Code"	"ICD Chapter"	"ICD Chapter Code"	Deaths	Population	Crude Rate
+	"Multnomah County, OR"	"41051"	"45-54 years"	"45-54"	"2018"	"2018"	"Neoplasms"	"C00-D48"	10	6232	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2000"	"2000"	"Neoplasms"	"C00-D48"	11	1566	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2009"	"2009"	"Neoplasms"	"C00-D48"	10	2830	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2010"	"2010"	"Neoplasms"	"C00-D48"	10	2966	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	12	583	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	15	634	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	10	728	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	16	846	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	12	931	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	10	956	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2017"	"2017"	"Neoplasms"	"C00-D48"	10	1217	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	13	1217	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2018"	"2018"	"Neoplasms"	"C00-D48"	17	1288	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	11	151	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	12	163	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	10	200	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	13	223	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	12	239	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	14	258	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	12	331	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	10	457	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	13	473	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	20	503	3976.1
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	17	536	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2017"	"2017"	"Neoplasms"	"C00-D48"	10	578	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2017"	"2017"	"Mental and behavioural disorders"	"F01-F99"	13	578	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	19	578	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	14	604	Unreliable
+	"Washington County, OR"	"41067"	"75-84 years"	"75-84"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	10	544	Unreliable
+	"Washington County, OR"	"41067"	"85+ years"	"85+"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	10	196	Unreliable
+	"Washington County, OR"	"41067"	"85+ years"	"85+"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	13	273	Unreliable
+	"Washington County, OR"	"41067"	"85+ years"	"85+"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	12	289	Unreliable
+	"Washington County, OR"	"41067"	"85+ years"	"85+"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	11	308	Unreliable
+	"Washington County, OR"	"41067"	"85+ years"	"85+"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	13	328	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Gender: Female"
+"Race: Asian or Pacific Islander"
+"States: Oregon (41)"
+"Group By: County; Ten-Year Age Groups; Year; ICD Chapter"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Sep 2, 2020 4:40:15 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Sep 2, 2020 4:40:15 PM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"5. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"7. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."

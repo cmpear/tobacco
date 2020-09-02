@@ -1,0 +1,218 @@
+"Notes"	"County"	"County Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Year"	"Year Code"	"ICD Chapter"	"ICD Chapter Code"	Deaths	Population	Crude Rate
+	"Clackamas County, OR"	"41005"	"85+ years"	"85+"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	10	147	Unreliable
+	"Clackamas County, OR"	"41005"	"85+ years"	"85+"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	10	148	Unreliable
+	"Clackamas County, OR"	"41005"	"85+ years"	"85+"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	10	251	Unreliable
+	"Clackamas County, OR"	"41005"	"85+ years"	"85+"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	11	244	Unreliable
+	"Multnomah County, OR"	"41051"	"45-54 years"	"45-54"	"2000"	"2000"	"Neoplasms"	"C00-D48"	10	5077	Unreliable
+	"Multnomah County, OR"	"41051"	"45-54 years"	"45-54"	"2015"	"2015"	"Neoplasms"	"C00-D48"	10	9569	Unreliable
+	"Multnomah County, OR"	"41051"	"45-54 years"	"45-54"	"2016"	"2016"	"Neoplasms"	"C00-D48"	11	10013	Unreliable
+	"Multnomah County, OR"	"41051"	"45-54 years"	"45-54"	"2018"	"2018"	"Neoplasms"	"C00-D48"	14	11109	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2000"	"2000"	"Neoplasms"	"C00-D48"	12	2971	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2002"	"2002"	"Neoplasms"	"C00-D48"	11	3325	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2004"	"2004"	"Neoplasms"	"C00-D48"	11	3762	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2006"	"2006"	"Neoplasms"	"C00-D48"	11	4265	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	10	4620	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2008"	"2008"	"Neoplasms"	"C00-D48"	10	4843	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2009"	"2009"	"Neoplasms"	"C00-D48"	17	5163	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2010"	"2010"	"Neoplasms"	"C00-D48"	18	5394	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2011"	"2011"	"Neoplasms"	"C00-D48"	13	5783	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2013"	"2013"	"Neoplasms"	"C00-D48"	13	6290	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2014"	"2014"	"Neoplasms"	"C00-D48"	18	6571	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2015"	"2015"	"Neoplasms"	"C00-D48"	13	6908	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2016"	"2016"	"Neoplasms"	"C00-D48"	15	7004	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	20	7004	285.6
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2017"	"2017"	"Neoplasms"	"C00-D48"	16	7208	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	11	7208	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2018"	"2018"	"Neoplasms"	"C00-D48"	13	7491	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"1999"	"1999"	"Neoplasms"	"C00-D48"	10	1912	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	15	1912	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2000"	"2000"	"Neoplasms"	"C00-D48"	14	1970	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2001"	"2001"	"Neoplasms"	"C00-D48"	12	2028	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2003"	"2003"	"Neoplasms"	"C00-D48"	12	2168	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	14	2168	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2004"	"2004"	"Neoplasms"	"C00-D48"	17	2283	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	13	2283	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2005"	"2005"	"Neoplasms"	"C00-D48"	13	2308	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	11	2390	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2008"	"2008"	"Neoplasms"	"C00-D48"	13	2666	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	12	2666	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2009"	"2009"	"Neoplasms"	"C00-D48"	15	2765	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2010"	"2010"	"Neoplasms"	"C00-D48"	11	2868	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2011"	"2011"	"Neoplasms"	"C00-D48"	16	3045	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2012"	"2012"	"Neoplasms"	"C00-D48"	15	3234	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	10	3234	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2013"	"2013"	"Neoplasms"	"C00-D48"	10	3404	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2014"	"2014"	"Neoplasms"	"C00-D48"	17	3693	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	11	3693	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2015"	"2015"	"Neoplasms"	"C00-D48"	17	4077	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2016"	"2016"	"Neoplasms"	"C00-D48"	21	4280	490.7
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	18	4280	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2017"	"2017"	"Neoplasms"	"C00-D48"	15	4621	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	13	4621	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2018"	"2018"	"Neoplasms"	"C00-D48"	11	4952	Unreliable
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	16	4952	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"1999"	"1999"	"Neoplasms"	"C00-D48"	12	986	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	15	986	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2000"	"2000"	"Neoplasms"	"C00-D48"	12	1010	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	18	1010	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2001"	"2001"	"Neoplasms"	"C00-D48"	13	1100	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	23	1100	2090.9
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2002"	"2002"	"Neoplasms"	"C00-D48"	12	1170	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	13	1170	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2003"	"2003"	"Neoplasms"	"C00-D48"	17	1230	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	16	1230	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2004"	"2004"	"Neoplasms"	"C00-D48"	18	1303	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	12	1303	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2005"	"2005"	"Neoplasms"	"C00-D48"	11	1345	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	10	1345	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	21	1455	1443.3
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2007"	"2007"	"Neoplasms"	"C00-D48"	15	1522	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	15	1522	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2008"	"2008"	"Neoplasms"	"C00-D48"	18	1517	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	20	1517	1318.4
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2009"	"2009"	"Neoplasms"	"C00-D48"	17	1576	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	15	1576	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2010"	"2010"	"Neoplasms"	"C00-D48"	19	1623	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	23	1623	1417.1
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	16	1665	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2012"	"2012"	"Neoplasms"	"C00-D48"	19	1720	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	19	1720	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2013"	"2013"	"Neoplasms"	"C00-D48"	18	1737	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	12	1737	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2014"	"2014"	"Neoplasms"	"C00-D48"	12	1774	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	13	1774	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2015"	"2015"	"Neoplasms"	"C00-D48"	11	1872	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	15	1872	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2016"	"2016"	"Neoplasms"	"C00-D48"	15	1911	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	20	1911	1046.6
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2017"	"2017"	"Neoplasms"	"C00-D48"	20	2144	932.8
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2017"	"2017"	"Diseases of the nervous system"	"G00-G98"	10	2144	Unreliable
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	24	2144	1119.4
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2018"	"2018"	"Neoplasms"	"C00-D48"	27	2246	1202.1
+	"Multnomah County, OR"	"41051"	"75-84 years"	"75-84"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	17	2246	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	16	238	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	17	255	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	11	296	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	19	315	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	14	321	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	20	372	5376.3
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2006"	"2006"	"Neoplasms"	"C00-D48"	10	373	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	21	373	5630.0
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2007"	"2007"	"Neoplasms"	"C00-D48"	14	426	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	23	426	5399.1
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	16	443	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	15	504	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	20	537	3724.4
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	14	614	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2012"	"2012"	"Neoplasms"	"C00-D48"	13	657	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	21	657	3196.3
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2013"	"2013"	"Neoplasms"	"C00-D48"	12	714	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	25	714	3501.4
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	24	753	3187.3
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	27	791	3413.4
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2016"	"2016"	"Neoplasms"	"C00-D48"	10	851	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	31	851	3642.8
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2017"	"2017"	"Neoplasms"	"C00-D48"	18	924	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2017"	"2017"	"Mental and behavioural disorders"	"F01-F99"	21	924	2272.7
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2017"	"2017"	"Diseases of the nervous system"	"G00-G98"	10	924	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	37	924	4004.3
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2018"	"2018"	"Neoplasms"	"C00-D48"	11	965	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2018"	"2018"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	10	965	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2018"	"2018"	"Mental and behavioural disorders"	"F01-F99"	14	965	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2018"	"2018"	"Diseases of the nervous system"	"G00-G98"	12	965	Unreliable
+	"Multnomah County, OR"	"41051"	"85+ years"	"85+"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	39	965	4041.5
+	"Washington County, OR"	"41067"	"45-54 years"	"45-54"	"2017"	"2017"	"Neoplasms"	"C00-D48"	10	10313	Unreliable
+	"Washington County, OR"	"41067"	"55-64 years"	"55-64"	"2008"	"2008"	"Neoplasms"	"C00-D48"	10	3752	Unreliable
+	"Washington County, OR"	"41067"	"55-64 years"	"55-64"	"2012"	"2012"	"Neoplasms"	"C00-D48"	11	4926	Unreliable
+	"Washington County, OR"	"41067"	"55-64 years"	"55-64"	"2017"	"2017"	"Neoplasms"	"C00-D48"	13	6396	Unreliable
+	"Washington County, OR"	"41067"	"55-64 years"	"55-64"	"2018"	"2018"	"Neoplasms"	"C00-D48"	13	6983	Unreliable
+	"Washington County, OR"	"41067"	"65-74 years"	"65-74"	"1999"	"1999"	"Neoplasms"	"C00-D48"	10	948	Unreliable
+	"Washington County, OR"	"41067"	"65-74 years"	"65-74"	"2008"	"2008"	"Neoplasms"	"C00-D48"	11	1908	Unreliable
+	"Washington County, OR"	"41067"	"65-74 years"	"65-74"	"2012"	"2012"	"Neoplasms"	"C00-D48"	12	2488	Unreliable
+	"Washington County, OR"	"41067"	"65-74 years"	"65-74"	"2014"	"2014"	"Neoplasms"	"C00-D48"	12	2957	Unreliable
+	"Washington County, OR"	"41067"	"65-74 years"	"65-74"	"2015"	"2015"	"Neoplasms"	"C00-D48"	11	3181	Unreliable
+	"Washington County, OR"	"41067"	"65-74 years"	"65-74"	"2016"	"2016"	"Neoplasms"	"C00-D48"	10	3432	Unreliable
+	"Washington County, OR"	"41067"	"65-74 years"	"65-74"	"2017"	"2017"	"Neoplasms"	"C00-D48"	15	3829	Unreliable
+	"Washington County, OR"	"41067"	"65-74 years"	"65-74"	"2018"	"2018"	"Neoplasms"	"C00-D48"	12	4184	Unreliable
+	"Washington County, OR"	"41067"	"75-84 years"	"75-84"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	10	699	Unreliable
+	"Washington County, OR"	"41067"	"75-84 years"	"75-84"	"2009"	"2009"	"Neoplasms"	"C00-D48"	10	874	Unreliable
+	"Washington County, OR"	"41067"	"75-84 years"	"75-84"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	14	939	Unreliable
+	"Washington County, OR"	"41067"	"75-84 years"	"75-84"	"2014"	"2014"	"Neoplasms"	"C00-D48"	11	1276	Unreliable
+	"Washington County, OR"	"41067"	"75-84 years"	"75-84"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	12	1276	Unreliable
+	"Washington County, OR"	"41067"	"75-84 years"	"75-84"	"2015"	"2015"	"Neoplasms"	"C00-D48"	10	1395	Unreliable
+	"Washington County, OR"	"41067"	"75-84 years"	"75-84"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	15	1395	Unreliable
+	"Washington County, OR"	"41067"	"75-84 years"	"75-84"	"2016"	"2016"	"Neoplasms"	"C00-D48"	15	1541	Unreliable
+	"Washington County, OR"	"41067"	"75-84 years"	"75-84"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	10	1541	Unreliable
+	"Washington County, OR"	"41067"	"75-84 years"	"75-84"	"2017"	"2017"	"Neoplasms"	"C00-D48"	20	1753	1140.9
+	"Washington County, OR"	"41067"	"75-84 years"	"75-84"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	12	1753	Unreliable
+	"Washington County, OR"	"41067"	"75-84 years"	"75-84"	"2018"	"2018"	"Neoplasms"	"C00-D48"	14	1926	Unreliable
+	"Washington County, OR"	"41067"	"85+ years"	"85+"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	10	189	Unreliable
+	"Washington County, OR"	"41067"	"85+ years"	"85+"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	11	314	Unreliable
+	"Washington County, OR"	"41067"	"85+ years"	"85+"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	17	338	Unreliable
+	"Washington County, OR"	"41067"	"85+ years"	"85+"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	13	362	Unreliable
+	"Washington County, OR"	"41067"	"85+ years"	"85+"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	15	422	Unreliable
+	"Washington County, OR"	"41067"	"85+ years"	"85+"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	16	466	Unreliable
+	"Washington County, OR"	"41067"	"85+ years"	"85+"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	23	483	4761.9
+	"Washington County, OR"	"41067"	"85+ years"	"85+"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	18	529	Unreliable
+	"Washington County, OR"	"41067"	"85+ years"	"85+"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	20	550	3636.4
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Race: Asian or Pacific Islander"
+"States: Oregon (41)"
+"Group By: County; Ten-Year Age Groups; Year; ICD Chapter"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Sep 2, 2020 12:28:30 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Sep 2, 2020 12:28:30 PM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"5. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"7. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."

@@ -4,8 +4,46 @@ library(tidyr)
 library(stringr)
 library(lubridate)
 
+load_wonder_data <- function(){
+  rValue <- NULL
+  path <- 'original_data/wonder'
+  for (state in list.files(path)){
+    path2 <- paste0(path, '/',state)
+    print(path2)
+    for (target in list.files(path2) ){
+      path3 <- paste0(path2, '/', target)
+      race = substring(target, 2, 2)
+      gender = substring(target, 3, 3)
+      temp <- cbind(read_tsv(path3)) %>%
+        mutate( RACE = race, STATE = state, GENDER = gender)
+#      print(target)
+#      print(names(temp))
+      rValue <- rbind(rValue, temp )
+      rm(temp)
+    }
+  }
+  names(rValue) <- toupper(names(rValue) )
+  names(rValue) <- str_replace_all( names(rValue), ' ', '_')
+  names(rValue) <- str_replace_all( names(rValue), '-', '_')
+  return(rValue)
+}
+cdc_data <-  load_wonder_data() %>% 
+  select( - CRUDE_RATE, - YEAR_CODE, - TEN_YEAR_AGE_GROUPS) %>%
+#  select(STATE, COUNTY_CODE, TEN_YEAR_AGE_GROUPS_CODE, RACE, GENDER, YEAR, ICD_CHAPTER_CODE, DEATHS, POPULATION, everything()) %>%
+  distinct() %>%
+  mutate(RACE = if_else(RACE == 'A', 'Asian',
+                        if_else(RACE == 'B', 'Black',
+                                if_else(RACE == 'W', 'White',
+                                        'All Races') ) ) ) %>%
+  rename(FIPS = COUNTY_CODE, AGE = TEN_YEAR_AGE_GROUPS_CODE, ICD_CHAPTER = ICD_CHAPTER_CODE, ICD_CHAPTER_DESC = ICD_CHAPTER) %>%
+  select(STATE, FIPS, YEAR, GENDER, RACE, AGE, ICD_CHAPTER, DEATHS, POPULATION, ICD_CHAPTER_DESC, COUNTY, NOTES )
+#%>%
+#  arrange(STATE, COUNTY, RACE, YEAR, GENDER, TEN_YEAR_AGE_GROUPS_CODE)
+
+
+
 load_tobacco_data <- function(){
-  path = 'original_data/Washington/'
+  path <- 'original_data/Washington/'
   df <- NULL
   for (f in list.files(path)){
     len <- str_length(f)
@@ -73,7 +111,7 @@ df2 <- df2 %>%
          FORMER_SMOKER = replace_percent(FORMER_SMOKER),
          NEVER_SMOKED = replace_percent(NEVER_SMOKED) ) 
 
-
+readr::write_csv(cdc_data, 'cleaned_data/cleaned_cdc_data.csv')
 readr::write_csv(df1, 'cleaned_data/WA.csv')
 readr::write_csv(df2, 'cleaned_data/tobacco_youth.csv')
 readr::write_csv(df3, 'cleaned_data/tobacco_consumption.csv')

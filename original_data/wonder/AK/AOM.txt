@@ -1,0 +1,945 @@
+"Notes"	"County"	"County Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Year"	"Year Code"	"ICD Chapter"	"ICD Chapter Code"	Deaths	Population	Crude Rate
+	"Anchorage Borough, AK"	"02020"	"< 1 year"	"1"	"2005"	"2005"	"Certain conditions originating in the perinatal period"	"P00-P96"	10	2288	Unreliable
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"1999"	"1999"	"External causes of morbidity and mortality"	"V01-Y89"	18	19240	Unreliable
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2000"	"2000"	"External causes of morbidity and mortality"	"V01-Y89"	15	19300	Unreliable
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2001"	"2001"	"External causes of morbidity and mortality"	"V01-Y89"	18	20491	Unreliable
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2002"	"2002"	"External causes of morbidity and mortality"	"V01-Y89"	17	21528	Unreliable
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2003"	"2003"	"External causes of morbidity and mortality"	"V01-Y89"	20	22228	90.0
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2004"	"2004"	"External causes of morbidity and mortality"	"V01-Y89"	35	23403	149.6
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2005"	"2005"	"External causes of morbidity and mortality"	"V01-Y89"	23	24223	95.0
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2006"	"2006"	"External causes of morbidity and mortality"	"V01-Y89"	27	24785	108.9
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2007"	"2007"	"External causes of morbidity and mortality"	"V01-Y89"	30	23953	125.2
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2008"	"2008"	"External causes of morbidity and mortality"	"V01-Y89"	17	24327	Unreliable
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2009"	"2009"	"External causes of morbidity and mortality"	"V01-Y89"	15	23455	Unreliable
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2010"	"2010"	"External causes of morbidity and mortality"	"V01-Y89"	23	24049	95.6
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2011"	"2011"	"External causes of morbidity and mortality"	"V01-Y89"	22	24243	90.7
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2012"	"2012"	"External causes of morbidity and mortality"	"V01-Y89"	22	24950	88.2
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2013"	"2013"	"External causes of morbidity and mortality"	"V01-Y89"	24	26202	91.6
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2014"	"2014"	"External causes of morbidity and mortality"	"V01-Y89"	22	26116	84.2
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	32	25550	125.2
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	30	23557	127.4
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2017"	"2017"	"External causes of morbidity and mortality"	"V01-Y89"	30	22644	132.5
+	"Anchorage Borough, AK"	"02020"	"15-24 years"	"15-24"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	23	21827	105.4
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"1999"	"1999"	"External causes of morbidity and mortality"	"V01-Y89"	24	20532	116.9
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2000"	"2000"	"External causes of morbidity and mortality"	"V01-Y89"	19	20476	Unreliable
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2001"	"2001"	"External causes of morbidity and mortality"	"V01-Y89"	21	19970	105.2
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2002"	"2002"	"External causes of morbidity and mortality"	"V01-Y89"	25	19768	126.5
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2003"	"2003"	"External causes of morbidity and mortality"	"V01-Y89"	20	19479	102.7
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2004"	"2004"	"External causes of morbidity and mortality"	"V01-Y89"	21	19582	107.2
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2005"	"2005"	"External causes of morbidity and mortality"	"V01-Y89"	17	19432	Unreliable
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2006"	"2006"	"External causes of morbidity and mortality"	"V01-Y89"	27	20141	134.1
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2007"	"2007"	"External causes of morbidity and mortality"	"V01-Y89"	24	20269	118.4
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2008"	"2008"	"External causes of morbidity and mortality"	"V01-Y89"	23	21154	108.7
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2009"	"2009"	"External causes of morbidity and mortality"	"V01-Y89"	28	21754	128.7
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2010"	"2010"	"External causes of morbidity and mortality"	"V01-Y89"	34	23278	146.1
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2011"	"2011"	"External causes of morbidity and mortality"	"V01-Y89"	25	23698	105.5
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2012"	"2012"	"External causes of morbidity and mortality"	"V01-Y89"	29	25044	115.8
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2013"	"2013"	"External causes of morbidity and mortality"	"V01-Y89"	37	26712	138.5
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2014"	"2014"	"External causes of morbidity and mortality"	"V01-Y89"	32	27612	115.9
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	45	27950	161.0
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	45	27047	166.4
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2017"	"2017"	"External causes of morbidity and mortality"	"V01-Y89"	38	26785	141.9
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	42	26200	160.3
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	12	24678	Unreliable
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"1999"	"1999"	"External causes of morbidity and mortality"	"V01-Y89"	24	24678	97.3
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2000"	"2000"	"Mental and behavioural disorders"	"F01-F99"	11	24017	Unreliable
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2000"	"2000"	"External causes of morbidity and mortality"	"V01-Y89"	15	24017	Unreliable
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	11	23565	Unreliable
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2001"	"2001"	"External causes of morbidity and mortality"	"V01-Y89"	28	23565	118.8
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	10	22805	Unreliable
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2002"	"2002"	"External causes of morbidity and mortality"	"V01-Y89"	35	22805	153.5
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2003"	"2003"	"External causes of morbidity and mortality"	"V01-Y89"	23	22083	104.2
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	11	21643	Unreliable
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2004"	"2004"	"External causes of morbidity and mortality"	"V01-Y89"	17	21643	Unreliable
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	10	21153	Unreliable
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2005"	"2005"	"External causes of morbidity and mortality"	"V01-Y89"	23	21153	108.7
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2006"	"2006"	"External causes of morbidity and mortality"	"V01-Y89"	14	20629	Unreliable
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2007"	"2007"	"External causes of morbidity and mortality"	"V01-Y89"	24	20156	119.1
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2008"	"2008"	"External causes of morbidity and mortality"	"V01-Y89"	24	19883	120.7
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	13	19414	Unreliable
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2009"	"2009"	"External causes of morbidity and mortality"	"V01-Y89"	23	19414	118.5
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	17	19735	Unreliable
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2010"	"2010"	"External causes of morbidity and mortality"	"V01-Y89"	20	19735	101.3
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2011"	"2011"	"External causes of morbidity and mortality"	"V01-Y89"	24	19308	124.3
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2012"	"2012"	"External causes of morbidity and mortality"	"V01-Y89"	26	19451	133.7
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	12	19134	Unreliable
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2013"	"2013"	"External causes of morbidity and mortality"	"V01-Y89"	26	19134	135.9
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2014"	"2014"	"External causes of morbidity and mortality"	"V01-Y89"	31	18933	163.7
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	11	18700	Unreliable
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	28	18700	149.7
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	12	19057	Unreliable
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	33	19057	173.2
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2017"	"2017"	"External causes of morbidity and mortality"	"V01-Y89"	38	19052	199.5
+	"Anchorage Borough, AK"	"02020"	"35-44 years"	"35-44"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	21	19281	108.9
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"1999"	"1999"	"Neoplasms"	"C00-D48"	15	19445	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	22	19445	113.1
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"1999"	"1999"	"External causes of morbidity and mortality"	"V01-Y89"	25	19445	128.6
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2000"	"2000"	"Neoplasms"	"C00-D48"	16	19930	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	22	19930	110.4
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2000"	"2000"	"External causes of morbidity and mortality"	"V01-Y89"	19	19930	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2001"	"2001"	"Neoplasms"	"C00-D48"	24	20988	114.4
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	30	20988	142.9
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2001"	"2001"	"External causes of morbidity and mortality"	"V01-Y89"	24	20988	114.4
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2002"	"2002"	"Neoplasms"	"C00-D48"	23	21419	107.4
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	31	21419	144.7
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2002"	"2002"	"Diseases of the digestive system"	"K00-K92"	14	21419	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2002"	"2002"	"External causes of morbidity and mortality"	"V01-Y89"	24	21419	112.1
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2003"	"2003"	"Neoplasms"	"C00-D48"	12	21884	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	32	21884	146.2
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2003"	"2003"	"External causes of morbidity and mortality"	"V01-Y89"	23	21884	105.1
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2004"	"2004"	"Neoplasms"	"C00-D48"	18	22179	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	30	22179	135.3
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2004"	"2004"	"External causes of morbidity and mortality"	"V01-Y89"	23	22179	103.7
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2005"	"2005"	"Neoplasms"	"C00-D48"	24	22432	107.0
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	20	22432	89.2
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2005"	"2005"	"External causes of morbidity and mortality"	"V01-Y89"	21	22432	93.6
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2006"	"2006"	"Neoplasms"	"C00-D48"	21	22585	93.0
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	19	22585	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2006"	"2006"	"External causes of morbidity and mortality"	"V01-Y89"	19	22585	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2007"	"2007"	"Neoplasms"	"C00-D48"	23	22475	102.3
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	26	22475	115.7
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2007"	"2007"	"Diseases of the digestive system"	"K00-K92"	11	22475	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2007"	"2007"	"External causes of morbidity and mortality"	"V01-Y89"	30	22475	133.5
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2008"	"2008"	"Neoplasms"	"C00-D48"	21	22191	94.6
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2008"	"2008"	"Mental and behavioural disorders"	"F01-F99"	10	22191	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	22	22191	99.1
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2008"	"2008"	"External causes of morbidity and mortality"	"V01-Y89"	34	22191	153.2
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2009"	"2009"	"Neoplasms"	"C00-D48"	25	22545	110.9
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	31	22545	137.5
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2009"	"2009"	"Diseases of the digestive system"	"K00-K92"	11	22545	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2009"	"2009"	"External causes of morbidity and mortality"	"V01-Y89"	36	22545	159.7
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2010"	"2010"	"Neoplasms"	"C00-D48"	19	22241	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	27	22241	121.4
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2010"	"2010"	"External causes of morbidity and mortality"	"V01-Y89"	38	22241	170.9
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2011"	"2011"	"Neoplasms"	"C00-D48"	17	21953	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	22	21953	100.2
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2011"	"2011"	"Diseases of the digestive system"	"K00-K92"	10	21953	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2011"	"2011"	"External causes of morbidity and mortality"	"V01-Y89"	36	21953	164.0
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2012"	"2012"	"Neoplasms"	"C00-D48"	17	21224	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	34	21224	160.2
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2012"	"2012"	"External causes of morbidity and mortality"	"V01-Y89"	25	21224	117.8
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2013"	"2013"	"Neoplasms"	"C00-D48"	21	20096	104.5
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	24	20096	119.4
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2013"	"2013"	"External causes of morbidity and mortality"	"V01-Y89"	21	20096	104.5
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2014"	"2014"	"Neoplasms"	"C00-D48"	17	19427	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	31	19427	159.6
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2014"	"2014"	"Diseases of the digestive system"	"K00-K92"	10	19427	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2014"	"2014"	"External causes of morbidity and mortality"	"V01-Y89"	26	19427	133.8
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2015"	"2015"	"Neoplasms"	"C00-D48"	25	18652	134.0
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	18	18652	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	21	18652	112.6
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2016"	"2016"	"Neoplasms"	"C00-D48"	13	18971	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	31	18971	163.4
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	25	18971	131.8
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2017"	"2017"	"Neoplasms"	"C00-D48"	11	18351	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	21	18351	114.4
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2017"	"2017"	"External causes of morbidity and mortality"	"V01-Y89"	26	18351	141.7
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2018"	"2018"	"Neoplasms"	"C00-D48"	14	17569	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	27	17569	153.7
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2018"	"2018"	"Diseases of the digestive system"	"K00-K92"	10	17569	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	21	17569	119.5
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"1999"	"1999"	"Neoplasms"	"C00-D48"	27	9058	298.1
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	31	9058	342.2
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"1999"	"1999"	"External causes of morbidity and mortality"	"V01-Y89"	11	9058	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2000"	"2000"	"Neoplasms"	"C00-D48"	40	9329	428.8
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	30	9329	321.6
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2001"	"2001"	"Neoplasms"	"C00-D48"	37	9826	376.6
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	39	9826	396.9
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2001"	"2001"	"External causes of morbidity and mortality"	"V01-Y89"	11	9826	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2002"	"2002"	"Neoplasms"	"C00-D48"	44	10954	401.7
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	39	10954	356.0
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2002"	"2002"	"External causes of morbidity and mortality"	"V01-Y89"	13	10954	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2003"	"2003"	"Neoplasms"	"C00-D48"	48	11731	409.2
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	35	11731	298.4
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2003"	"2003"	"External causes of morbidity and mortality"	"V01-Y89"	16	11731	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2004"	"2004"	"Neoplasms"	"C00-D48"	35	12575	278.3
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	37	12575	294.2
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2004"	"2004"	"External causes of morbidity and mortality"	"V01-Y89"	12	12575	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2005"	"2005"	"Neoplasms"	"C00-D48"	44	13399	328.4
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	41	13399	306.0
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2005"	"2005"	"External causes of morbidity and mortality"	"V01-Y89"	10	13399	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2006"	"2006"	"Neoplasms"	"C00-D48"	31	14126	219.5
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2006"	"2006"	"Mental and behavioural disorders"	"F01-F99"	11	14126	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	41	14126	290.2
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2006"	"2006"	"External causes of morbidity and mortality"	"V01-Y89"	19	14126	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2007"	"2007"	"Neoplasms"	"C00-D48"	46	14732	312.2
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	33	14732	224.0
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2007"	"2007"	"External causes of morbidity and mortality"	"V01-Y89"	12	14732	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2008"	"2008"	"Neoplasms"	"C00-D48"	51	15541	328.2
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	38	15541	244.5
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2008"	"2008"	"Diseases of the digestive system"	"K00-K92"	11	15541	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2008"	"2008"	"External causes of morbidity and mortality"	"V01-Y89"	17	15541	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2009"	"2009"	"Neoplasms"	"C00-D48"	41	16514	248.3
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	47	16514	284.6
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2009"	"2009"	"Diseases of the respiratory system"	"J00-J98"	11	16514	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2009"	"2009"	"Diseases of the digestive system"	"K00-K92"	12	16514	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2009"	"2009"	"External causes of morbidity and mortality"	"V01-Y89"	15	16514	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2010"	"2010"	"Neoplasms"	"C00-D48"	48	16941	283.3
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	43	16941	253.8
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2010"	"2010"	"Diseases of the respiratory system"	"J00-J98"	10	16941	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2010"	"2010"	"External causes of morbidity and mortality"	"V01-Y89"	16	16941	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2011"	"2011"	"Neoplasms"	"C00-D48"	66	17680	373.3
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	53	17680	299.8
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2011"	"2011"	"Diseases of the respiratory system"	"J00-J98"	11	17680	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2011"	"2011"	"Diseases of the digestive system"	"K00-K92"	10	17680	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2012"	"2012"	"Certain infectious and parasitic diseases"	"A00-B99"	12	17861	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2012"	"2012"	"Neoplasms"	"C00-D48"	52	17861	291.1
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	47	17861	263.1
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2012"	"2012"	"Diseases of the respiratory system"	"J00-J98"	15	17861	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2012"	"2012"	"Diseases of the digestive system"	"K00-K92"	12	17861	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2012"	"2012"	"External causes of morbidity and mortality"	"V01-Y89"	23	17861	128.8
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2013"	"2013"	"Certain infectious and parasitic diseases"	"A00-B99"	10	17738	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2013"	"2013"	"Neoplasms"	"C00-D48"	56	17738	315.7
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	56	17738	315.7
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2013"	"2013"	"Diseases of the respiratory system"	"J00-J98"	13	17738	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2013"	"2013"	"Diseases of the digestive system"	"K00-K92"	16	17738	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2013"	"2013"	"External causes of morbidity and mortality"	"V01-Y89"	22	17738	124.0
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2014"	"2014"	"Neoplasms"	"C00-D48"	45	17567	256.2
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2014"	"2014"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	14	17567	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	46	17567	261.9
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2014"	"2014"	"Diseases of the digestive system"	"K00-K92"	15	17567	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2014"	"2014"	"External causes of morbidity and mortality"	"V01-Y89"	32	17567	182.2
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2015"	"2015"	"Neoplasms"	"C00-D48"	38	17626	215.6
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2015"	"2015"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	12	17626	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	56	17626	317.7
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2015"	"2015"	"Diseases of the respiratory system"	"J00-J98"	15	17626	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	28	17626	158.9
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2016"	"2016"	"Certain infectious and parasitic diseases"	"A00-B99"	10	17857	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2016"	"2016"	"Neoplasms"	"C00-D48"	47	17857	263.2
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2016"	"2016"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	13	17857	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	55	17857	308.0
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2016"	"2016"	"Diseases of the respiratory system"	"J00-J98"	15	17857	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2016"	"2016"	"Diseases of the digestive system"	"K00-K92"	13	17857	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	26	17857	145.6
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2017"	"2017"	"Neoplasms"	"C00-D48"	55	17791	309.1
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2017"	"2017"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	16	17791	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	55	17791	309.1
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2017"	"2017"	"Diseases of the respiratory system"	"J00-J98"	15	17791	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2017"	"2017"	"Diseases of the digestive system"	"K00-K92"	19	17791	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2017"	"2017"	"External causes of morbidity and mortality"	"V01-Y89"	22	17791	123.7
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2018"	"2018"	"Neoplasms"	"C00-D48"	41	17526	233.9
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2018"	"2018"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	11	17526	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2018"	"2018"	"Mental and behavioural disorders"	"F01-F99"	10	17526	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	58	17526	330.9
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2018"	"2018"	"Diseases of the digestive system"	"K00-K92"	10	17526	Unreliable
+	"Anchorage Borough, AK"	"02020"	"55-64 years"	"55-64"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	31	17526	176.9
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"1999"	"1999"	"Neoplasms"	"C00-D48"	32	4035	793.1
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	49	4035	1214.4
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2000"	"2000"	"Neoplasms"	"C00-D48"	40	4200	952.4
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	28	4200	666.7
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2001"	"2001"	"Neoplasms"	"C00-D48"	43	4353	987.8
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	46	4353	1056.7
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2001"	"2001"	"Diseases of the respiratory system"	"J00-J98"	13	4353	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2002"	"2002"	"Neoplasms"	"C00-D48"	43	4528	949.6
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	39	4528	861.3
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2002"	"2002"	"Diseases of the respiratory system"	"J00-J98"	13	4528	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2003"	"2003"	"Neoplasms"	"C00-D48"	36	4661	772.4
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	40	4661	858.2
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2003"	"2003"	"Diseases of the respiratory system"	"J00-J98"	13	4661	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2004"	"2004"	"Neoplasms"	"C00-D48"	35	4878	717.5
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	39	4878	799.5
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2004"	"2004"	"Diseases of the respiratory system"	"J00-J98"	15	4878	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2005"	"2005"	"Neoplasms"	"C00-D48"	50	5047	990.7
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	44	5047	871.8
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2006"	"2006"	"Neoplasms"	"C00-D48"	44	5203	845.7
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2006"	"2006"	"Diseases of the nervous system"	"G00-G98"	10	5203	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	49	5203	941.8
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2007"	"2007"	"Neoplasms"	"C00-D48"	36	5548	648.9
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	38	5548	684.9
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2007"	"2007"	"Diseases of the respiratory system"	"J00-J98"	10	5548	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2008"	"2008"	"Neoplasms"	"C00-D48"	60	5942	1009.8
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	42	5942	706.8
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2008"	"2008"	"Diseases of the respiratory system"	"J00-J98"	11	5942	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2009"	"2009"	"Neoplasms"	"C00-D48"	37	6268	590.3
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	39	6268	622.2
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2009"	"2009"	"Diseases of the respiratory system"	"J00-J98"	17	6268	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2010"	"2010"	"Neoplasms"	"C00-D48"	49	6497	754.2
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2010"	"2010"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	11	6497	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	32	6497	492.5
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2010"	"2010"	"Diseases of the respiratory system"	"J00-J98"	17	6497	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2011"	"2011"	"Neoplasms"	"C00-D48"	52	6950	748.2
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	42	6950	604.3
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2011"	"2011"	"Diseases of the respiratory system"	"J00-J98"	17	6950	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2012"	"2012"	"Neoplasms"	"C00-D48"	57	7645	745.6
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2012"	"2012"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	15	7645	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2012"	"2012"	"Diseases of the nervous system"	"G00-G98"	11	7645	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	44	7645	575.5
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2012"	"2012"	"Diseases of the respiratory system"	"J00-J98"	15	7645	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2013"	"2013"	"Neoplasms"	"C00-D48"	56	8248	679.0
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	40	8248	485.0
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2013"	"2013"	"Diseases of the respiratory system"	"J00-J98"	19	8248	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2014"	"2014"	"Neoplasms"	"C00-D48"	61	8721	699.5
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2014"	"2014"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	11	8721	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	44	8721	504.5
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2014"	"2014"	"Diseases of the respiratory system"	"J00-J98"	13	8721	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2015"	"2015"	"Neoplasms"	"C00-D48"	48	9209	521.2
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2015"	"2015"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	17	9209	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2015"	"2015"	"Diseases of the nervous system"	"G00-G98"	10	9209	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	47	9209	510.4
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2015"	"2015"	"Diseases of the respiratory system"	"J00-J98"	17	9209	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	11	9209	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2016"	"2016"	"Neoplasms"	"C00-D48"	63	9722	648.0
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2016"	"2016"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	12	9722	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	50	9722	514.3
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2016"	"2016"	"Diseases of the respiratory system"	"J00-J98"	16	9722	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	11	9722	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2017"	"2017"	"Neoplasms"	"C00-D48"	47	10082	466.2
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2017"	"2017"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	20	10082	198.4
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	74	10082	734.0
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2017"	"2017"	"Diseases of the respiratory system"	"J00-J98"	15	10082	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2017"	"2017"	"External causes of morbidity and mortality"	"V01-Y89"	11	10082	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2018"	"2018"	"Neoplasms"	"C00-D48"	57	10478	544.0
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2018"	"2018"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	14	10478	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	61	10478	582.2
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2018"	"2018"	"Diseases of the respiratory system"	"J00-J98"	25	10478	238.6
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2018"	"2018"	"Diseases of the digestive system"	"K00-K92"	11	10478	Unreliable
+	"Anchorage Borough, AK"	"02020"	"65-74 years"	"65-74"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	12	10478	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"1999"	"1999"	"Neoplasms"	"C00-D48"	27	1650	1636.4
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	37	1650	2242.4
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"1999"	"1999"	"Diseases of the respiratory system"	"J00-J98"	16	1650	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2000"	"2000"	"Neoplasms"	"C00-D48"	26	1748	1487.4
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	43	1748	2460.0
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2000"	"2000"	"Diseases of the respiratory system"	"J00-J98"	11	1748	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2001"	"2001"	"Neoplasms"	"C00-D48"	40	1865	2144.8
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2001"	"2001"	"Diseases of the nervous system"	"G00-G98"	12	1865	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	49	1865	2627.3
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2002"	"2002"	"Neoplasms"	"C00-D48"	48	1949	2462.8
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	45	1949	2308.9
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2002"	"2002"	"Diseases of the respiratory system"	"J00-J98"	20	1949	1026.2
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2003"	"2003"	"Neoplasms"	"C00-D48"	42	2042	2056.8
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	48	2042	2350.6
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2003"	"2003"	"Diseases of the respiratory system"	"J00-J98"	13	2042	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2004"	"2004"	"Neoplasms"	"C00-D48"	42	2129	1972.8
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2004"	"2004"	"Diseases of the nervous system"	"G00-G98"	10	2129	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	41	2129	1925.8
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2004"	"2004"	"Diseases of the respiratory system"	"J00-J98"	19	2129	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2005"	"2005"	"Neoplasms"	"C00-D48"	29	2269	1278.1
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2005"	"2005"	"Mental and behavioural disorders"	"F01-F99"	11	2269	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	58	2269	2556.2
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2005"	"2005"	"Diseases of the respiratory system"	"J00-J98"	25	2269	1101.8
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2006"	"2006"	"Neoplasms"	"C00-D48"	31	2315	1339.1
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	36	2315	1555.1
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2006"	"2006"	"Diseases of the respiratory system"	"J00-J98"	11	2315	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2007"	"2007"	"Neoplasms"	"C00-D48"	48	2418	1985.1
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2007"	"2007"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	11	2418	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	43	2418	1778.3
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2007"	"2007"	"Diseases of the respiratory system"	"J00-J98"	23	2418	951.2
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2008"	"2008"	"Neoplasms"	"C00-D48"	43	2459	1748.7
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	49	2459	1992.7
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2008"	"2008"	"Diseases of the respiratory system"	"J00-J98"	19	2459	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2009"	"2009"	"Neoplasms"	"C00-D48"	45	2484	1811.6
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2009"	"2009"	"Diseases of the nervous system"	"G00-G98"	11	2484	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	32	2484	1288.2
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2009"	"2009"	"Diseases of the respiratory system"	"J00-J98"	12	2484	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2009"	"2009"	"Diseases of the digestive system"	"K00-K92"	10	2484	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2010"	"2010"	"Neoplasms"	"C00-D48"	40	2511	1593.0
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2010"	"2010"	"Mental and behavioural disorders"	"F01-F99"	10	2511	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2010"	"2010"	"Diseases of the nervous system"	"G00-G98"	12	2511	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	40	2511	1593.0
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2010"	"2010"	"Diseases of the respiratory system"	"J00-J98"	15	2511	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2011"	"2011"	"Neoplasms"	"C00-D48"	32	2596	1232.7
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	38	2596	1463.8
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2011"	"2011"	"Diseases of the respiratory system"	"J00-J98"	11	2596	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2012"	"2012"	"Neoplasms"	"C00-D48"	44	2765	1591.3
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2012"	"2012"	"Mental and behavioural disorders"	"F01-F99"	13	2765	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2012"	"2012"	"Diseases of the nervous system"	"G00-G98"	12	2765	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	33	2765	1193.5
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2012"	"2012"	"Diseases of the respiratory system"	"J00-J98"	17	2765	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2013"	"2013"	"Neoplasms"	"C00-D48"	44	2866	1535.2
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2013"	"2013"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	13	2866	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2013"	"2013"	"Mental and behavioural disorders"	"F01-F99"	14	2866	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2013"	"2013"	"Diseases of the nervous system"	"G00-G98"	11	2866	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	40	2866	1395.7
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2013"	"2013"	"Diseases of the respiratory system"	"J00-J98"	18	2866	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2014"	"2014"	"Neoplasms"	"C00-D48"	43	2907	1479.2
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2014"	"2014"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	11	2907	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2014"	"2014"	"Mental and behavioural disorders"	"F01-F99"	17	2907	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2014"	"2014"	"Diseases of the nervous system"	"G00-G98"	11	2907	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	48	2907	1651.2
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2014"	"2014"	"Diseases of the respiratory system"	"J00-J98"	18	2907	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2015"	"2015"	"Neoplasms"	"C00-D48"	41	2972	1379.5
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2015"	"2015"	"Mental and behavioural disorders"	"F01-F99"	19	2972	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2015"	"2015"	"Diseases of the nervous system"	"G00-G98"	11	2972	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	49	2972	1648.7
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2015"	"2015"	"Diseases of the respiratory system"	"J00-J98"	12	2972	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	11	2972	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2016"	"2016"	"Neoplasms"	"C00-D48"	55	3122	1761.7
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2016"	"2016"	"Mental and behavioural disorders"	"F01-F99"	15	3122	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2016"	"2016"	"Diseases of the nervous system"	"G00-G98"	15	3122	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	36	3122	1153.1
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2016"	"2016"	"Diseases of the respiratory system"	"J00-J98"	21	3122	672.6
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	10	3122	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2017"	"2017"	"Neoplasms"	"C00-D48"	48	3381	1419.7
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2017"	"2017"	"Mental and behavioural disorders"	"F01-F99"	11	3381	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2017"	"2017"	"Diseases of the nervous system"	"G00-G98"	11	3381	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	44	3381	1301.4
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2017"	"2017"	"Diseases of the respiratory system"	"J00-J98"	26	3381	769.0
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2018"	"2018"	"Neoplasms"	"C00-D48"	54	3654	1477.8
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2018"	"2018"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	12	3654	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2018"	"2018"	"Diseases of the nervous system"	"G00-G98"	13	3654	Unreliable
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	47	3654	1286.3
+	"Anchorage Borough, AK"	"02020"	"75-84 years"	"75-84"	"2018"	"2018"	"Diseases of the respiratory system"	"J00-J98"	11	3654	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	20	296	6756.8
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2000"	"2000"	"Neoplasms"	"C00-D48"	10	320	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	27	320	8437.5
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2001"	"2001"	"Neoplasms"	"C00-D48"	10	352	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	21	352	5965.9
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2002"	"2002"	"Neoplasms"	"C00-D48"	10	368	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	16	368	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2003"	"2003"	"Neoplasms"	"C00-D48"	11	404	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	30	404	7425.7
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2004"	"2004"	"Neoplasms"	"C00-D48"	15	452	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	18	452	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2005"	"2005"	"Neoplasms"	"C00-D48"	15	518	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2005"	"2005"	"Mental and behavioural disorders"	"F01-F99"	10	518	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	31	518	5984.6
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2006"	"2006"	"Neoplasms"	"C00-D48"	12	530	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	26	530	4905.7
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2007"	"2007"	"Neoplasms"	"C00-D48"	12	551	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	28	551	5081.7
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2008"	"2008"	"Neoplasms"	"C00-D48"	11	607	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	25	607	4118.6
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2008"	"2008"	"Diseases of the respiratory system"	"J00-J98"	13	607	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2009"	"2009"	"Neoplasms"	"C00-D48"	16	641	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2009"	"2009"	"Mental and behavioural disorders"	"F01-F99"	15	641	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	21	641	3276.1
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2010"	"2010"	"Neoplasms"	"C00-D48"	15	659	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2010"	"2010"	"Mental and behavioural disorders"	"F01-F99"	15	659	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2010"	"2010"	"Diseases of the nervous system"	"G00-G98"	16	659	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	37	659	5614.6
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2010"	"2010"	"Diseases of the respiratory system"	"J00-J98"	10	659	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2011"	"2011"	"Neoplasms"	"C00-D48"	20	753	2656.0
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2011"	"2011"	"Mental and behavioural disorders"	"F01-F99"	12	753	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2011"	"2011"	"Diseases of the nervous system"	"G00-G98"	12	753	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	37	753	4913.7
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2012"	"2012"	"Neoplasms"	"C00-D48"	12	798	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2012"	"2012"	"Mental and behavioural disorders"	"F01-F99"	13	798	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2012"	"2012"	"Diseases of the nervous system"	"G00-G98"	14	798	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	45	798	5639.1
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2013"	"2013"	"Neoplasms"	"C00-D48"	16	824	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2013"	"2013"	"Mental and behavioural disorders"	"F01-F99"	19	824	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2013"	"2013"	"Diseases of the nervous system"	"G00-G98"	11	824	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	32	824	3883.5
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2013"	"2013"	"Diseases of the respiratory system"	"J00-J98"	11	824	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2014"	"2014"	"Neoplasms"	"C00-D48"	19	902	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2014"	"2014"	"Mental and behavioural disorders"	"F01-F99"	19	902	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	46	902	5099.8
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2014"	"2014"	"Diseases of the respiratory system"	"J00-J98"	15	902	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2015"	"2015"	"Neoplasms"	"C00-D48"	18	985	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2015"	"2015"	"Mental and behavioural disorders"	"F01-F99"	18	985	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	38	985	3857.9
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2015"	"2015"	"Diseases of the respiratory system"	"J00-J98"	17	985	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2016"	"2016"	"Neoplasms"	"C00-D48"	17	1012	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2016"	"2016"	"Mental and behavioural disorders"	"F01-F99"	16	1012	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2016"	"2016"	"Diseases of the nervous system"	"G00-G98"	16	1012	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	30	1012	2964.4
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2016"	"2016"	"Diseases of the respiratory system"	"J00-J98"	18	1012	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	10	1012	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2017"	"2017"	"Neoplasms"	"C00-D48"	18	1052	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2017"	"2017"	"Mental and behavioural disorders"	"F01-F99"	15	1052	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2017"	"2017"	"Diseases of the nervous system"	"G00-G98"	19	1052	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	39	1052	3707.2
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2017"	"2017"	"Diseases of the respiratory system"	"J00-J98"	11	1052	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2018"	"2018"	"Neoplasms"	"C00-D48"	17	1100	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2018"	"2018"	"Mental and behavioural disorders"	"F01-F99"	23	1100	2090.9
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2018"	"2018"	"Diseases of the nervous system"	"G00-G98"	16	1100	Unreliable
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	45	1100	4090.9
+	"Anchorage Borough, AK"	"02020"	"85+ years"	"85+"	"2018"	"2018"	"Diseases of the respiratory system"	"J00-J98"	16	1100	Unreliable
+	"Bethel Census Area, AK"	"02050"	"15-24 years"	"15-24"	"2012"	"2012"	"External causes of morbidity and mortality"	"V01-Y89"	12	1522	Unreliable
+	"Bethel Census Area, AK"	"02050"	"25-34 years"	"25-34"	"2017"	"2017"	"External causes of morbidity and mortality"	"V01-Y89"	10	1439	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"15-24 years"	"15-24"	"2006"	"2006"	"External causes of morbidity and mortality"	"V01-Y89"	11	9449	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"15-24 years"	"15-24"	"2007"	"2007"	"External causes of morbidity and mortality"	"V01-Y89"	18	10033	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"15-24 years"	"15-24"	"2008"	"2008"	"External causes of morbidity and mortality"	"V01-Y89"	14	10034	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"15-24 years"	"15-24"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	10	10660	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"15-24 years"	"15-24"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	11	9939	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"25-34 years"	"25-34"	"1999"	"1999"	"External causes of morbidity and mortality"	"V01-Y89"	10	7240	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"25-34 years"	"25-34"	"2012"	"2012"	"External causes of morbidity and mortality"	"V01-Y89"	14	9841	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"25-34 years"	"25-34"	"2013"	"2013"	"External causes of morbidity and mortality"	"V01-Y89"	14	10132	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"25-34 years"	"25-34"	"2014"	"2014"	"External causes of morbidity and mortality"	"V01-Y89"	13	10432	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"25-34 years"	"25-34"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	10	10567	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"25-34 years"	"25-34"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	19	10517	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"25-34 years"	"25-34"	"2017"	"2017"	"External causes of morbidity and mortality"	"V01-Y89"	13	10619	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"25-34 years"	"25-34"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	12	10319	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"35-44 years"	"35-44"	"2013"	"2013"	"External causes of morbidity and mortality"	"V01-Y89"	10	6330	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"45-54 years"	"45-54"	"1999"	"1999"	"Neoplasms"	"C00-D48"	10	5961	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"45-54 years"	"45-54"	"1999"	"1999"	"External causes of morbidity and mortality"	"V01-Y89"	10	5961	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"45-54 years"	"45-54"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	10	6082	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"45-54 years"	"45-54"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	16	6830	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"45-54 years"	"45-54"	"2004"	"2004"	"External causes of morbidity and mortality"	"V01-Y89"	10	6830	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"45-54 years"	"45-54"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	10	6812	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"45-54 years"	"45-54"	"2006"	"2006"	"Neoplasms"	"C00-D48"	10	6860	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"45-54 years"	"45-54"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	10	6976	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"45-54 years"	"45-54"	"2011"	"2011"	"Neoplasms"	"C00-D48"	11	6788	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"45-54 years"	"45-54"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	10	6788	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"45-54 years"	"45-54"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	10	6584	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"45-54 years"	"45-54"	"2012"	"2012"	"External causes of morbidity and mortality"	"V01-Y89"	10	6584	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"45-54 years"	"45-54"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	11	5728	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"45-54 years"	"45-54"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	10	5501	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"45-54 years"	"45-54"	"2017"	"2017"	"External causes of morbidity and mortality"	"V01-Y89"	16	5435	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"45-54 years"	"45-54"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	10	5231	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"1999"	"1999"	"Neoplasms"	"C00-D48"	10	2649	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	14	2649	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	11	2703	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2001"	"2001"	"Neoplasms"	"C00-D48"	11	2892	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2003"	"2003"	"Neoplasms"	"C00-D48"	10	3513	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2005"	"2005"	"Neoplasms"	"C00-D48"	14	4278	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	11	4278	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2007"	"2007"	"Neoplasms"	"C00-D48"	16	4997	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	13	4997	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2008"	"2008"	"Neoplasms"	"C00-D48"	14	5277	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	13	5277	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2009"	"2009"	"Neoplasms"	"C00-D48"	15	5610	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	14	5610	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2010"	"2010"	"Neoplasms"	"C00-D48"	14	5822	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	15	5822	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2011"	"2011"	"Neoplasms"	"C00-D48"	12	6001	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	24	6001	399.9
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2012"	"2012"	"Neoplasms"	"C00-D48"	13	6032	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	11	6032	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2013"	"2013"	"Neoplasms"	"C00-D48"	20	5899	339.0
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	19	5899	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2014"	"2014"	"Neoplasms"	"C00-D48"	17	5815	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	13	5815	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2015"	"2015"	"Neoplasms"	"C00-D48"	13	5668	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	19	5668	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2016"	"2016"	"Neoplasms"	"C00-D48"	15	5720	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	15	5720	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	11	5720	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2017"	"2017"	"Neoplasms"	"C00-D48"	12	5517	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	20	5517	362.5
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2018"	"2018"	"Neoplasms"	"C00-D48"	12	5385	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	17	5385	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"55-64 years"	"55-64"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	10	5385	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"1999"	"1999"	"Neoplasms"	"C00-D48"	15	1193	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	23	1193	1927.9
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2000"	"2000"	"Neoplasms"	"C00-D48"	15	1219	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2001"	"2001"	"Neoplasms"	"C00-D48"	12	1332	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	15	1332	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2002"	"2002"	"Neoplasms"	"C00-D48"	10	1385	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2003"	"2003"	"Neoplasms"	"C00-D48"	16	1432	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	15	1432	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2004"	"2004"	"Neoplasms"	"C00-D48"	17	1450	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	18	1450	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2006"	"2006"	"Neoplasms"	"C00-D48"	13	1640	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2007"	"2007"	"Neoplasms"	"C00-D48"	11	1724	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	11	1724	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2008"	"2008"	"Neoplasms"	"C00-D48"	13	1927	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	12	1927	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2009"	"2009"	"Neoplasms"	"C00-D48"	16	2059	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	19	2059	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2010"	"2010"	"Neoplasms"	"C00-D48"	23	2215	1038.4
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	18	2215	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2011"	"2011"	"Neoplasms"	"C00-D48"	19	2404	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	18	2404	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2012"	"2012"	"Neoplasms"	"C00-D48"	21	2574	815.9
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	16	2574	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2013"	"2013"	"Neoplasms"	"C00-D48"	13	2735	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	11	2735	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2014"	"2014"	"Neoplasms"	"C00-D48"	15	2920	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	16	2920	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2015"	"2015"	"Neoplasms"	"C00-D48"	19	3151	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	15	3151	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2016"	"2016"	"Neoplasms"	"C00-D48"	21	3341	628.6
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	21	3341	628.6
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2017"	"2017"	"Neoplasms"	"C00-D48"	21	3664	573.1
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	30	3664	818.8
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2018"	"2018"	"Neoplasms"	"C00-D48"	17	3826	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"65-74 years"	"65-74"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	14	3826	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	17	513	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	14	504	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2001"	"2001"	"Neoplasms"	"C00-D48"	10	544	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	14	544	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	11	567	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	14	614	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2004"	"2004"	"Neoplasms"	"C00-D48"	13	691	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	13	691	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	17	719	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2007"	"2007"	"Neoplasms"	"C00-D48"	12	741	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	10	741	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2008"	"2008"	"Neoplasms"	"C00-D48"	16	754	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	12	754	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2009"	"2009"	"Neoplasms"	"C00-D48"	16	779	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	16	779	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2011"	"2011"	"Neoplasms"	"C00-D48"	20	819	2442.0
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	17	819	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2011"	"2011"	"Diseases of the respiratory system"	"J00-J98"	10	819	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2012"	"2012"	"Neoplasms"	"C00-D48"	20	855	2339.2
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	11	855	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2013"	"2013"	"Neoplasms"	"C00-D48"	10	886	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	18	886	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2014"	"2014"	"Neoplasms"	"C00-D48"	15	868	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	14	868	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2015"	"2015"	"Neoplasms"	"C00-D48"	15	914	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	15	914	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2016"	"2016"	"Neoplasms"	"C00-D48"	17	982	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	13	982	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	18	1078	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"75-84 years"	"75-84"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	20	1172	1706.5
+	"Fairbanks North Star Borough, AK"	"02090"	"85+ years"	"85+"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	10	106	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"85+ years"	"85+"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	13	145	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"85+ years"	"85+"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	15	172	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"85+ years"	"85+"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	12	178	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"85+ years"	"85+"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	13	179	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"85+ years"	"85+"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	12	208	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"85+ years"	"85+"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	10	233	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"85+ years"	"85+"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	20	240	8333.3
+	"Fairbanks North Star Borough, AK"	"02090"	"85+ years"	"85+"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	15	257	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"85+ years"	"85+"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	20	263	7604.6
+	"Fairbanks North Star Borough, AK"	"02090"	"85+ years"	"85+"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	18	275	Unreliable
+	"Juneau Borough, AK"	"02110"	"55-64 years"	"55-64"	"2007"	"2007"	"Neoplasms"	"C00-D48"	11	1989	Unreliable
+	"Juneau Borough, AK"	"02110"	"55-64 years"	"55-64"	"2013"	"2013"	"Neoplasms"	"C00-D48"	16	2413	Unreliable
+	"Juneau Borough, AK"	"02110"	"55-64 years"	"55-64"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	10	2408	Unreliable
+	"Juneau Borough, AK"	"02110"	"65-74 years"	"65-74"	"2010"	"2010"	"Neoplasms"	"C00-D48"	10	859	Unreliable
+	"Juneau Borough, AK"	"02110"	"65-74 years"	"65-74"	"2015"	"2015"	"Neoplasms"	"C00-D48"	13	1236	Unreliable
+	"Juneau Borough, AK"	"02110"	"75-84 years"	"75-84"	"2014"	"2014"	"Neoplasms"	"C00-D48"	10	338	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"25-34 years"	"25-34"	"2007"	"2007"	"External causes of morbidity and mortality"	"V01-Y89"	10	2983	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"35-44 years"	"35-44"	"2004"	"2004"	"External causes of morbidity and mortality"	"V01-Y89"	10	3957	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"35-44 years"	"35-44"	"2008"	"2008"	"External causes of morbidity and mortality"	"V01-Y89"	12	3637	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"45-54 years"	"45-54"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	10	5052	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"45-54 years"	"45-54"	"2003"	"2003"	"External causes of morbidity and mortality"	"V01-Y89"	11	5052	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"45-54 years"	"45-54"	"2009"	"2009"	"External causes of morbidity and mortality"	"V01-Y89"	11	5087	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"45-54 years"	"45-54"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	12	4948	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"45-54 years"	"45-54"	"2011"	"2011"	"External causes of morbidity and mortality"	"V01-Y89"	11	4760	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"45-54 years"	"45-54"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	10	3959	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	10	2334	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2002"	"2002"	"Neoplasms"	"C00-D48"	10	2813	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	13	2813	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2003"	"2003"	"Neoplasms"	"C00-D48"	16	2970	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	13	2970	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2004"	"2004"	"Neoplasms"	"C00-D48"	13	3249	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	10	3249	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	10	3520	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2006"	"2006"	"Neoplasms"	"C00-D48"	19	3770	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2007"	"2007"	"Neoplasms"	"C00-D48"	11	4028	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	11	4028	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2008"	"2008"	"Neoplasms"	"C00-D48"	15	4281	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2009"	"2009"	"Neoplasms"	"C00-D48"	17	4500	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	15	4500	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2010"	"2010"	"Neoplasms"	"C00-D48"	18	4635	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	13	4635	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2011"	"2011"	"Neoplasms"	"C00-D48"	15	4928	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	24	4928	487.0
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2012"	"2012"	"Neoplasms"	"C00-D48"	16	4930	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2013"	"2013"	"Neoplasms"	"C00-D48"	14	4890	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	15	4890	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2014"	"2014"	"Neoplasms"	"C00-D48"	19	4850	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	13	4850	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2015"	"2015"	"Neoplasms"	"C00-D48"	15	4817	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	16	4817	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2016"	"2016"	"Neoplasms"	"C00-D48"	21	4907	428.0
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	21	4907	428.0
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2017"	"2017"	"Neoplasms"	"C00-D48"	14	4916	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	10	4916	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2018"	"2018"	"Neoplasms"	"C00-D48"	16	4769	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2018"	"2018"	"Endocrine, nutritional and metabolic diseases"	"E00-E88"	10	4769	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	13	4769	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"55-64 years"	"55-64"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	10	4769	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"1999"	"1999"	"Neoplasms"	"C00-D48"	15	1182	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	15	1182	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2000"	"2000"	"Neoplasms"	"C00-D48"	11	1207	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	16	1207	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2001"	"2001"	"Neoplasms"	"C00-D48"	12	1274	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	14	1274	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2002"	"2002"	"Neoplasms"	"C00-D48"	10	1342	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	13	1342	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2003"	"2003"	"Neoplasms"	"C00-D48"	10	1387	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2004"	"2004"	"Neoplasms"	"C00-D48"	10	1429	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	17	1429	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2006"	"2006"	"Neoplasms"	"C00-D48"	14	1627	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	14	1627	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2007"	"2007"	"Neoplasms"	"C00-D48"	20	1733	1154.1
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	15	1733	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	14	1909	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2009"	"2009"	"Neoplasms"	"C00-D48"	20	2101	951.9
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2010"	"2010"	"Neoplasms"	"C00-D48"	13	2235	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	12	2235	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2011"	"2011"	"Neoplasms"	"C00-D48"	17	2367	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	13	2367	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2013"	"2013"	"Neoplasms"	"C00-D48"	14	2774	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	13	2774	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2014"	"2014"	"Neoplasms"	"C00-D48"	21	2996	700.9
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	18	2996	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2015"	"2015"	"Neoplasms"	"C00-D48"	18	3178	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	25	3178	786.7
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2016"	"2016"	"Neoplasms"	"C00-D48"	18	3334	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	21	3334	629.9
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	10	3334	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2017"	"2017"	"Neoplasms"	"C00-D48"	13	3496	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	27	3496	772.3
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2018"	"2018"	"Neoplasms"	"C00-D48"	23	3644	631.2
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	23	3644	631.2
+	"Kenai Peninsula Borough, AK"	"02122"	"65-74 years"	"65-74"	"2018"	"2018"	"Diseases of the respiratory system"	"J00-J98"	12	3644	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	11	468	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2000"	"2000"	"Neoplasms"	"C00-D48"	10	481	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	17	481	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2001"	"2001"	"Neoplasms"	"C00-D48"	11	534	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	16	534	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	19	567	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2003"	"2003"	"Neoplasms"	"C00-D48"	14	585	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	10	585	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2004"	"2004"	"Neoplasms"	"C00-D48"	11	645	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	14	645	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	12	656	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2006"	"2006"	"Neoplasms"	"C00-D48"	13	664	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	17	664	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2007"	"2007"	"Neoplasms"	"C00-D48"	12	736	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	10	736	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2008"	"2008"	"Neoplasms"	"C00-D48"	12	748	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	12	748	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2009"	"2009"	"Neoplasms"	"C00-D48"	11	800	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	15	800	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2010"	"2010"	"Neoplasms"	"C00-D48"	17	820	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	14	820	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2011"	"2011"	"Neoplasms"	"C00-D48"	13	870	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2012"	"2012"	"Neoplasms"	"C00-D48"	11	925	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2013"	"2013"	"Neoplasms"	"C00-D48"	11	971	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	11	971	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2014"	"2014"	"Neoplasms"	"C00-D48"	13	1015	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	21	1015	2069.0
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2015"	"2015"	"Neoplasms"	"C00-D48"	14	1064	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	20	1064	1879.7
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2016"	"2016"	"Neoplasms"	"C00-D48"	16	1152	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	12	1152	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2017"	"2017"	"Neoplasms"	"C00-D48"	14	1239	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	11	1239	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2018"	"2018"	"Neoplasms"	"C00-D48"	14	1366	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"75-84 years"	"75-84"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	20	1366	1464.1
+	"Kenai Peninsula Borough, AK"	"02122"	"85+ years"	"85+"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	13	177	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"85+ years"	"85+"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	12	193	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"85+ years"	"85+"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	10	203	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"85+ years"	"85+"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	11	208	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"85+ years"	"85+"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	11	228	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"85+ years"	"85+"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	16	231	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"85+ years"	"85+"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	18	263	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"85+ years"	"85+"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	19	285	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"85+ years"	"85+"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	16	272	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"85+ years"	"85+"	"2018"	"2018"	"Neoplasms"	"C00-D48"	11	273	Unreliable
+	"Kenai Peninsula Borough, AK"	"02122"	"85+ years"	"85+"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	13	273	Unreliable
+	"Ketchikan Gateway Borough, AK"	"02130"	"65-74 years"	"65-74"	"1999"	"1999"	"Neoplasms"	"C00-D48"	10	300	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"15-24 years"	"15-24"	"2003"	"2003"	"External causes of morbidity and mortality"	"V01-Y89"	10	5378	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"15-24 years"	"15-24"	"2004"	"2004"	"External causes of morbidity and mortality"	"V01-Y89"	10	5659	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"15-24 years"	"15-24"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	11	7889	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"25-34 years"	"25-34"	"2003"	"2003"	"External causes of morbidity and mortality"	"V01-Y89"	10	3839	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"25-34 years"	"25-34"	"2004"	"2004"	"External causes of morbidity and mortality"	"V01-Y89"	10	4087	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"25-34 years"	"25-34"	"2007"	"2007"	"External causes of morbidity and mortality"	"V01-Y89"	10	4962	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"25-34 years"	"25-34"	"2012"	"2012"	"External causes of morbidity and mortality"	"V01-Y89"	16	6410	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"25-34 years"	"25-34"	"2013"	"2013"	"External causes of morbidity and mortality"	"V01-Y89"	13	6675	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"25-34 years"	"25-34"	"2014"	"2014"	"External causes of morbidity and mortality"	"V01-Y89"	17	7403	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"25-34 years"	"25-34"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	12	7950	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"25-34 years"	"25-34"	"2017"	"2017"	"External causes of morbidity and mortality"	"V01-Y89"	12	8097	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"35-44 years"	"35-44"	"2006"	"2006"	"External causes of morbidity and mortality"	"V01-Y89"	10	6007	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"35-44 years"	"35-44"	"2007"	"2007"	"External causes of morbidity and mortality"	"V01-Y89"	12	6153	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"35-44 years"	"35-44"	"2008"	"2008"	"External causes of morbidity and mortality"	"V01-Y89"	17	6163	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"35-44 years"	"35-44"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	13	7186	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"35-44 years"	"35-44"	"2017"	"2017"	"External causes of morbidity and mortality"	"V01-Y89"	11	7355	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"35-44 years"	"35-44"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	13	7493	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"45-54 years"	"45-54"	"2000"	"2000"	"External causes of morbidity and mortality"	"V01-Y89"	11	5050	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"45-54 years"	"45-54"	"2002"	"2002"	"External causes of morbidity and mortality"	"V01-Y89"	14	5884	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"45-54 years"	"45-54"	"2003"	"2003"	"Neoplasms"	"C00-D48"	10	6184	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"45-54 years"	"45-54"	"2004"	"2004"	"External causes of morbidity and mortality"	"V01-Y89"	11	6482	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"45-54 years"	"45-54"	"2006"	"2006"	"External causes of morbidity and mortality"	"V01-Y89"	11	7137	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"45-54 years"	"45-54"	"2007"	"2007"	"External causes of morbidity and mortality"	"V01-Y89"	13	7255	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"45-54 years"	"45-54"	"2008"	"2008"	"Neoplasms"	"C00-D48"	10	7402	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"45-54 years"	"45-54"	"2008"	"2008"	"External causes of morbidity and mortality"	"V01-Y89"	13	7402	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"45-54 years"	"45-54"	"2009"	"2009"	"External causes of morbidity and mortality"	"V01-Y89"	11	7545	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"45-54 years"	"45-54"	"2010"	"2010"	"External causes of morbidity and mortality"	"V01-Y89"	18	7479	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"45-54 years"	"45-54"	"2011"	"2011"	"External causes of morbidity and mortality"	"V01-Y89"	14	7483	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"45-54 years"	"45-54"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	11	6998	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"45-54 years"	"45-54"	"2014"	"2014"	"External causes of morbidity and mortality"	"V01-Y89"	11	6975	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"45-54 years"	"45-54"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	11	6984	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"45-54 years"	"45-54"	"2018"	"2018"	"External causes of morbidity and mortality"	"V01-Y89"	11	6840	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	10	2284	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2000"	"2000"	"Neoplasms"	"C00-D48"	12	2421	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2002"	"2002"	"Neoplasms"	"C00-D48"	12	2942	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	16	2942	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2003"	"2003"	"Neoplasms"	"C00-D48"	15	3204	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2004"	"2004"	"Neoplasms"	"C00-D48"	12	3524	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	14	3524	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	11	3818	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2006"	"2006"	"Neoplasms"	"C00-D48"	15	4207	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2007"	"2007"	"Neoplasms"	"C00-D48"	19	4528	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	13	4528	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	14	4831	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2009"	"2009"	"Neoplasms"	"C00-D48"	17	5374	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	11	5374	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2010"	"2010"	"Neoplasms"	"C00-D48"	18	5560	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	14	5560	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2011"	"2011"	"Neoplasms"	"C00-D48"	18	6095	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	18	6095	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2011"	"2011"	"External causes of morbidity and mortality"	"V01-Y89"	11	6095	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2012"	"2012"	"Neoplasms"	"C00-D48"	22	6373	345.2
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	14	6373	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2012"	"2012"	"External causes of morbidity and mortality"	"V01-Y89"	10	6373	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2013"	"2013"	"Neoplasms"	"C00-D48"	26	6475	401.5
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	13	6475	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2013"	"2013"	"External causes of morbidity and mortality"	"V01-Y89"	16	6475	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2014"	"2014"	"Neoplasms"	"C00-D48"	24	6666	360.0
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	18	6666	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2015"	"2015"	"Neoplasms"	"C00-D48"	32	6845	467.5
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	25	6845	365.2
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2016"	"2016"	"Neoplasms"	"C00-D48"	18	7141	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	13	7141	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2017"	"2017"	"Neoplasms"	"C00-D48"	13	7270	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	20	7270	275.1
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2018"	"2018"	"Neoplasms"	"C00-D48"	25	7401	337.8
+	"Matanuska-Susitna Borough, AK"	"02170"	"55-64 years"	"55-64"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	19	7401	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"1999"	"1999"	"Diseases of the circulatory system"	"I00-I99"	14	1180	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2000"	"2000"	"Neoplasms"	"C00-D48"	12	1235	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	13	1235	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	16	1327	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	12	1371	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	10	1478	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2004"	"2004"	"Neoplasms"	"C00-D48"	16	1582	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2004"	"2004"	"Diseases of the circulatory system"	"I00-I99"	13	1582	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2005"	"2005"	"Neoplasms"	"C00-D48"	16	1670	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	15	1670	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2006"	"2006"	"Neoplasms"	"C00-D48"	12	1790	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	15	1790	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2007"	"2007"	"Neoplasms"	"C00-D48"	16	1933	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	14	1933	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2008"	"2008"	"Neoplasms"	"C00-D48"	19	2167	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	15	2167	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2009"	"2009"	"Neoplasms"	"C00-D48"	24	2322	1033.6
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2010"	"2010"	"Neoplasms"	"C00-D48"	16	2449	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2010"	"2010"	"Diseases of the respiratory system"	"J00-J98"	10	2449	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2011"	"2011"	"Neoplasms"	"C00-D48"	23	2678	858.8
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	25	2678	933.5
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2012"	"2012"	"Neoplasms"	"C00-D48"	21	2896	725.1
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	16	2896	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2013"	"2013"	"Neoplasms"	"C00-D48"	15	3090	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	18	3090	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2014"	"2014"	"Neoplasms"	"C00-D48"	29	3380	858.0
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	16	3380	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2015"	"2015"	"Neoplasms"	"C00-D48"	20	3600	555.6
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	11	3600	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2016"	"2016"	"Neoplasms"	"C00-D48"	30	3960	757.6
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	34	3960	858.6
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2017"	"2017"	"Neoplasms"	"C00-D48"	29	4171	695.3
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	20	4171	479.5
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2017"	"2017"	"Diseases of the respiratory system"	"J00-J98"	10	4171	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2018"	"2018"	"Neoplasms"	"C00-D48"	24	4392	546.4
+	"Matanuska-Susitna Borough, AK"	"02170"	"65-74 years"	"65-74"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	22	4392	500.9
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2000"	"2000"	"Neoplasms"	"C00-D48"	10	451	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2000"	"2000"	"Diseases of the circulatory system"	"I00-I99"	17	451	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2001"	"2001"	"Neoplasms"	"C00-D48"	13	502	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2001"	"2001"	"Diseases of the circulatory system"	"I00-I99"	14	502	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2002"	"2002"	"Diseases of the circulatory system"	"I00-I99"	14	539	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2003"	"2003"	"Neoplasms"	"C00-D48"	18	609	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2003"	"2003"	"Diseases of the circulatory system"	"I00-I99"	15	609	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2005"	"2005"	"Diseases of the circulatory system"	"I00-I99"	19	759	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2006"	"2006"	"Neoplasms"	"C00-D48"	12	811	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2006"	"2006"	"Diseases of the circulatory system"	"I00-I99"	22	811	2712.7
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2007"	"2007"	"Neoplasms"	"C00-D48"	12	812	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	15	812	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2008"	"2008"	"Neoplasms"	"C00-D48"	10	850	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2008"	"2008"	"Diseases of the circulatory system"	"I00-I99"	18	850	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2009"	"2009"	"Neoplasms"	"C00-D48"	14	905	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2009"	"2009"	"Diseases of the circulatory system"	"I00-I99"	16	905	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2010"	"2010"	"Neoplasms"	"C00-D48"	23	927	2481.1
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2010"	"2010"	"Diseases of the circulatory system"	"I00-I99"	15	927	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2011"	"2011"	"Neoplasms"	"C00-D48"	17	970	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2011"	"2011"	"Diseases of the circulatory system"	"I00-I99"	17	970	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2012"	"2012"	"Neoplasms"	"C00-D48"	13	986	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2012"	"2012"	"Diseases of the circulatory system"	"I00-I99"	11	986	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2013"	"2013"	"Neoplasms"	"C00-D48"	14	1054	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	16	1054	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2014"	"2014"	"Neoplasms"	"C00-D48"	21	1168	1797.9
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2014"	"2014"	"Diseases of the circulatory system"	"I00-I99"	12	1168	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2015"	"2015"	"Neoplasms"	"C00-D48"	18	1227	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	16	1227	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2015"	"2015"	"Diseases of the respiratory system"	"J00-J98"	14	1227	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2016"	"2016"	"Neoplasms"	"C00-D48"	20	1289	1551.6
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	18	1289	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2016"	"2016"	"Diseases of the respiratory system"	"J00-J98"	11	1289	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2017"	"2017"	"Neoplasms"	"C00-D48"	12	1449	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2017"	"2017"	"Diseases of the circulatory system"	"I00-I99"	17	1449	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2018"	"2018"	"Neoplasms"	"C00-D48"	22	1650	1333.3
+	"Matanuska-Susitna Borough, AK"	"02170"	"75-84 years"	"75-84"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	23	1650	1393.9
+	"Matanuska-Susitna Borough, AK"	"02170"	"85+ years"	"85+"	"2007"	"2007"	"Diseases of the circulatory system"	"I00-I99"	12	133	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"85+ years"	"85+"	"2013"	"2013"	"Diseases of the circulatory system"	"I00-I99"	13	226	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"85+ years"	"85+"	"2014"	"2014"	"Neoplasms"	"C00-D48"	10	236	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"85+ years"	"85+"	"2015"	"2015"	"Diseases of the circulatory system"	"I00-I99"	14	272	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"85+ years"	"85+"	"2016"	"2016"	"Neoplasms"	"C00-D48"	11	298	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"85+ years"	"85+"	"2016"	"2016"	"Diseases of the circulatory system"	"I00-I99"	13	298	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"85+ years"	"85+"	"2017"	"2017"	"Neoplasms"	"C00-D48"	15	346	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"85+ years"	"85+"	"2018"	"2018"	"Neoplasms"	"C00-D48"	14	372	Unreliable
+	"Matanuska-Susitna Borough, AK"	"02170"	"85+ years"	"85+"	"2018"	"2018"	"Diseases of the circulatory system"	"I00-I99"	11	372	Unreliable
+	"Wade Hampton Census Area, AK"	"02270"	"15-24 years"	"15-24"	"2010"	"2010"	"External causes of morbidity and mortality"	"V01-Y89"	10	821	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Gender: Male"
+"States: Alaska (02)"
+"Group By: County; Ten-Year Age Groups; Year; ICD Chapter"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Sep 2, 2020 5:28:16 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Sep 2, 2020 5:28:16 PM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Footnotes:
+"1. Data are not available for this area for all of the requested years. See Caveats below for more information."
+"2. Data discontinuity due to county line boundary changes in requested years. See Caveats below for more information."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data for Prince of Wales-Hyder Census Area, AK (FIPS code 02198), Hoonah-Angoon Census Area, AK (FIPS code 02105), Skagway"
+"Municipality, AK (FIPS code 02230), Petersburg Borough/Census Area, AK (FIPS code 02195) and Wrangell City and Borough, AK (FIPS"
+"code 02275) are only available for 2014 and later; for computational purposes, counts and population estimates for 2013 and"
+"earlier are set to zero. Thus, counts and rates shown in multi-year requests for this entity do not include any data for years"
+"before 2014, only data for 2014 and later. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Alaska2014."
+"3. Data for Prince of Wales-Outer Ketchikan Census Area, AK (FIPS code 02201), Skagway-Hoonah-Angoon Census Area, AK (FIPS code"
+"02232) and Wrangell-Petersburg Census Area, AK (FIPS code 02280) are only available for 2013 and earlier; for computational"
+"purposes, counts and population estimates for 2014 and later are set to zero. Thus, counts and rates shown in multi-year"
+"requests for this entity do not include any data for years after 2013, only data for 2013 and earlier. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Alaska2014."
+"4. Data for Denali Borough, Alaska (FIPS code 02068) are only available for 2003 and later; for computational purposes, counts"
+"and population estimates for 1999-2002 are set to zero. Thus, counts and rates shown in multi-year requests for this entity do"
+"not include any data for years prior to 2003, only data for 2003 and later. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Denali Borough."
+"5. There is a discontinuity in the mortality and population data for Yukon-Koyukuk Census Area (FIPS code 02290) between 2002"
+"and 2003. The discontinuity occurs because part of Yukon-Koyukuk Census Area became Denali Borough, Alaska (FIPS code 02068) and"
+"beginning in 2003, deaths and population counts for this former part of Yukon-Koyukuk are reported for Denali Borough and are no"
+"longer included with data for Yukon-Koyukuk."
+"6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"7. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"8. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"9. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"10. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."

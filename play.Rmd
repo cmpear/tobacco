@@ -1,0 +1,43 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r, 'df1 to county-level data'}
+df1 %>%
+  filter(GEOTYPE == 'County') %>%
+  filter(!(LABEL %in%
+             c('Used marijuana some other way in the past 30 days (among current users)',
+               'Used marijuana topically in the past 30 days (among current users)')
+           ))%>%    # no county data for 'some other way' and 'topically'
+  select(LABEL) %>%
+  distinct() %>%
+  arrange(LABEL)
+```
+
+```{r}
+df1 %>%
+  group_by(LABEL) %>%
+  summarize(n = length(LABEL), 
+            NAs = sum(is.na(PERCENT) ),
+            PERCENT = mean(PERCENT, na.rm=TRUE) )
+```
+
+
+```{r}
+df1 %>%
+  filter(GEOTYPE != 'Accountable Communities Of Health') %>%
+  filter(GEOTYPE == 'County') %>%
+  filter(LABEL == 'Ate marijuana in the past 30 days (among current users)' )
+```
+
+```{r}
+df3 %>%
+  filter(LOCATIONDESC %in% c('Washington','Idaho','Alaska','Oregon') ) %>%
+  filter(grepl('tobacco', tolower(TOPICTYPE) ) ) %>%
+  filter(is.na(DATA_VALUE) )
+```
